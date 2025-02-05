@@ -1,0 +1,8 @@
+owner=ORM
+controller=ORM
+add_core=EGY
+add_core=IRQ
+add_core=ORM
+trade_goods = grain
+life_rating = 35
+terrain = semidesert
