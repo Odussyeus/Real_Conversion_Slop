@@ -1,0 +1,10 @@
+owner=NET
+controller=NET
+add_core=AAC
+add_core=GER
+add_core=NET
+add_core=TER
+trade_goods = coal
+life_rating = 40
+terrain = mining_district
+fort = 1

@@ -1,0 +1,13 @@
+owner=SAX
+controller=SAX
+add_core=GER
+add_core=SAX
+trade_goods = grain
+life_rating = 40
+fort = 1
+state_building=
+{
+	level=1
+	building = paper_mill
+	upgrade = yes
+}
