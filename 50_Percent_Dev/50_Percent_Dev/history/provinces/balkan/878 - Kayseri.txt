@@ -1,0 +1,6 @@
+owner=AKK
+controller=AKK
+add_core=AKK
+add_core=TUR
+trade_goods = wool
+life_rating = 35
