@@ -1,0 +1,7 @@
+owner=ENG
+controller=ENG
+add_core=ENG
+add_core=NVG
+add_core=RUS
+trade_goods = grain
+life_rating = 35
