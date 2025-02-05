@@ -1,0 +1,4311 @@
+8 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1217
+	}
+
+	craftsmen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 5529
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 6387
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 593
+	}
+
+	clerks=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 350
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 128
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 73
+	}
+
+	capitalists=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1150
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 28020
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 581
+	}
+
+	craftsmen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 2641
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 2606
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 242
+	}
+
+	clerks=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 143
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 52
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 30
+	}
+
+	capitalists=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 12
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 469
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 13988
+	}
+
+}
+10 = {
+	soldiers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 3032
+	}
+
+	craftsmen=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 7976
+	}
+
+	artisans=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 14395
+	}
+
+	clergymen=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 669
+	}
+
+	clerks=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 457
+	}
+
+	bureaucrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 329
+	}
+
+	officers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 216
+	}
+
+	capitalists=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 179
+	}
+
+	aristocrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 864
+	}
+
+	farmers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 80139
+	}
+
+	soldiers=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 74
+	}
+
+	craftsmen=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 195
+	}
+
+	artisans=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 1131
+	}
+
+	clergymen=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 52
+	}
+
+	clerks=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 36
+	}
+
+	bureaucrats=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 26
+	}
+
+	officers=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 17
+	}
+
+	capitalists=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 68
+	}
+
+	farmers=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 1028
+	}
+
+}
+720 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 12246
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 17861
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 2506
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 558
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 418
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1867
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 184490
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 270
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 2313
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 325
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 72
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 54
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 242
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 2600
+	}
+
+}
+721 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 7178
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 10439
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1508
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 325
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 244
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1137
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 107342
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 159
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 1352
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 195
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 42
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 32
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 147
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 1512
+	}
+
+}
+722 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 8764
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 14471
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1344
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 290
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 258
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 2315
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 90985
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 21
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 2150
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 200
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 43
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 344
+	}
+
+}
+723 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 6437
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 16093
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 747
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 322
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 241
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 2253
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 88855
+	}
+
+}
+724 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 5909
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 19422
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 823
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 501
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 237
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1170
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 129541
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 355
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 3918
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 167
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 101
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 236
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 4607
+	}
+
+}
+725 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 6249
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 15623
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 725
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 268
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 234
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 937
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 87559
+	}
+
+}
+726 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 19762
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 48210
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 6878
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1288
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1073
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 23947
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 235115
+	}
+
+	aristocrats=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+	farmers=
+	{
+		culture = ashkenazi
+		religion = jewish
+		size= 100
+	}
+
+}
+727 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 3410
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 12904
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1198
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 258
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 184
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 2323
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 71895
+	}
+
+}
+728 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 4943
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 24715
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 2295
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 494
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 282
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 4449
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 139358
+	}
+
+}
+729 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 2448
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 14887
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1325
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 193
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 224
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 2628
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 81601
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 2167
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 8581
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 764
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 111
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 129
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 1515
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 65567
+	}
+
+}
+730 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 5205
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 15527
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1442
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 310
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 266
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 5590
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 88080
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 3067
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 9650
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 896
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 193
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 165
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 3474
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 49224
+	}
+
+}
+731 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 4634
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 7052
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 655
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 141
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 121
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1269
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 86872
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 4162
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 19718
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 1831
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 394
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 338
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 3549
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 60481
+	}
+
+}
+732 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1559
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 8177
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 759
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 164
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 94
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1472
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 43433
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 744
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 3337
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 310
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 67
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 38
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 601
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 21485
+	}
+
+}
+733 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 3350
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 5098
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 473
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 102
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 87
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1835
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 61885
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 3020
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 14289
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 1327
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 286
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 245
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 5144
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 41340
+	}
+
+}
+734 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 3951
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 706
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 265
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 49
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 222
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 65333
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 3731
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 4782
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 1793
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 335
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 191
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 1506
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 54282
+	}
+
+}
+735 = {
+	soldiers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 822
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = catholic
+		size= 1457
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = catholic
+		size= 273
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 131
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = catholic
+		size= 306
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = catholic
+		size= 38087
+	}
+
+	soldiers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 45
+	}
+
+	artisans=
+	{
+		culture = south_german
+		religion = protestant
+		size= 278
+	}
+
+	clergymen=
+	{
+		culture = south_german
+		religion = protestant
+		size= 52
+	}
+
+	bureaucrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 25
+	}
+
+	officers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = south_german
+		religion = protestant
+		size= 58
+	}
+
+	farmers=
+	{
+		culture = south_german
+		religion = protestant
+		size= 1787
+	}
+
+}
+736 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 714
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1265
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 237
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 101
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 25
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 266
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 33099
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 39
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 242
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 45
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 19
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 51
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 1564
+	}
+
+}
+737 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 872
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1546
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 289
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 124
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 31
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 324
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 40077
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 48
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 296
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 55
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 24
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 62
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 1893
+	}
+
+}
+738 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 13433
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 31029
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1441
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 620
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 443
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 9930
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 164737
+	}
+
+}
+739 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 3454
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 15483
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 719
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 266
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 177
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 4336
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 98933
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 258
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 3080
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 143
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 53
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 35
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 862
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 4796
+	}
+
+}
+740 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1922
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 8574
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 918
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 110
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 98
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 515
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 56511
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 109
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 1580
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 169
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 20
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 95
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 1885
+	}
+
+}
+741 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 16393
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 761
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 327
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 234
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 2295
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 105000
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 319
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 3328
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 154
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 67
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 48
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 466
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 4236
+	}
+
+}
+742 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 993
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 7950
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 575
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 212
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 71
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1731
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 87763
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 53
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 1465
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 106
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 39
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 13
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 319
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 3315
+	}
+
+}
+743 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 4822
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 14322
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1330
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 328
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 245
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 2578
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 81191
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 1540
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 5040
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 468
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 115
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 86
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 907
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 25332
+	}
+
+}
+744 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 12494
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 34568
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 3631
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 643
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 593
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 5461
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 215777
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 1170
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 7220
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 758
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 134
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 124
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 1141
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 14980
+	}
+
+}
+745 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1453
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 3619
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 324
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 48
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 56
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 602
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 47106
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 1369
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 10434
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 933
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 139
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 163
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 1735
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 35074
+	}
+
+}
+746 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1869
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 8337
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 893
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 107
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 96
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 500
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 54953
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 106
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 1537
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 165
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 20
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 92
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 1831
+	}
+
+}
+747 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 4384
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 11871
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1272
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 187
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 203
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 950
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 76429
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 233
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 2180
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 234
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 34
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 37
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 174
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 2175
+	}
+
+}
+748 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 3313
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 8974
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 962
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 141
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 154
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 717
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 57772
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 176
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 1648
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 177
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 26
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 28
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 132
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 1643
+	}
+
+}
+749 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 11657
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 28794
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 2629
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 588
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 336
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 2545
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 162005
+	}
+
+	aristocrats=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 100
+	}
+
+	soldiers=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 100
+	}
+
+	clergymen=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 100
+	}
+
+	artisans=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 600
+	}
+
+	farmers=
+	{
+		culture = sephardic
+		religion = jewish
+		size= 500
+	}
+
+}
+750 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 5065
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 12663
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1176
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 253
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 145
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1140
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 70011
+	}
+
+}
+751 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 31801
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 2953
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 818
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 364
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 11449
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 101676
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 387
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 6451
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 599
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 166
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 73
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 2322
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 4486
+	}
+
+}
+752 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 6801
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 30286
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 2813
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 779
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 346
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 10903
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 190957
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 355
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 5492
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 509
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 142
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 63
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 1977
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 4129
+	}
+
+}
+753 = {
+	soldiers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 2889
+	}
+
+	artisans=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 13717
+	}
+
+	clergymen=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 637
+	}
+
+	bureaucrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 314
+	}
+
+	officers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 207
+	}
+
+	aristocrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 823
+	}
+
+	farmers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 84569
+	}
+
+	soldiers=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 70
+	}
+
+	artisans=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 1077
+	}
+
+	clergymen=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 25
+	}
+
+	officers=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 16
+	}
+
+	aristocrats=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 65
+	}
+
+	farmers=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 1214
+	}
+
+}
+754 = {
+	soldiers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 10333
+	}
+
+	artisans=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 24888
+	}
+
+	clergymen=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 3595
+	}
+
+	bureaucrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 996
+	}
+
+	officers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 691
+	}
+
+	aristocrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 3097
+	}
+
+	farmers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 232934
+	}
+
+}
+755 = {
+	soldiers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 5785
+	}
+
+	artisans=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 6254
+	}
+
+	clergymen=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 2033
+	}
+
+	bureaucrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 500
+	}
+
+	officers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 391
+	}
+
+	aristocrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 1313
+	}
+
+	farmers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 140075
+	}
+
+}
+756 = {
+	soldiers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 5837
+	}
+
+	artisans=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 14198
+	}
+
+	clergymen=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 1025
+	}
+
+	bureaucrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 568
+	}
+
+	officers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 394
+	}
+
+	aristocrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 1546
+	}
+
+	farmers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 134188
+	}
+
+}
+757 = {
+	soldiers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 6389
+	}
+
+	artisans=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 31944
+	}
+
+	clergymen=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 1483
+	}
+
+	bureaucrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 730
+	}
+
+	officers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 479
+	}
+
+	aristocrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 2236
+	}
+
+	farmers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 184914
+	}
+
+}
+758 = {
+	soldiers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 4736
+	}
+
+	artisans=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 17922
+	}
+
+	clergymen=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 832
+	}
+
+	bureaucrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 461
+	}
+
+	officers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 320
+	}
+
+	aristocrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 1255
+	}
+
+	farmers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 102487
+	}
+
+}
+759 = {
+	soldiers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 1155
+	}
+
+	artisans=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 4077
+	}
+
+	clergymen=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 662
+	}
+
+	bureaucrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 367
+	}
+
+	officers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 133
+	}
+
+	aristocrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 856
+	}
+
+	farmers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 108197
+	}
+
+	soldiers=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 4
+	}
+
+	artisans=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 557
+	}
+
+	clergymen=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 90
+	}
+
+	bureaucrats=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 50
+	}
+
+	officers=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 117
+	}
+
+}
+760 = {
+	soldiers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 4133
+	}
+
+	artisans=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 5346
+	}
+
+	clergymen=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 869
+	}
+
+	bureaucrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 481
+	}
+
+	officers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 281
+	}
+
+	aristocrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 1123
+	}
+
+	farmers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 121426
+	}
+
+}
+761 = {
+	soldiers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 20916
+	}
+
+	clergymen=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 971
+	}
+
+	bureaucrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 478
+	}
+
+	officers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 373
+	}
+
+	aristocrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 1255
+	}
+
+	farmers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 118172
+	}
+
+}
+762 = {
+	soldiers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 1884
+	}
+
+	artisans=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 7535
+	}
+
+	clergymen=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 1224
+	}
+
+	bureaucrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 602
+	}
+
+	officers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 245
+	}
+
+	aristocrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 2110
+	}
+
+	farmers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 174785
+	}
+
+}
+763 = {
+	soldiers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 908
+	}
+
+	artisans=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 3632
+	}
+
+	clergymen=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 590
+	}
+
+	bureaucrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 291
+	}
+
+	officers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 118
+	}
+
+	aristocrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 763
+	}
+
+	farmers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 84510
+	}
+
+}
+764 = {
+	soldiers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 1154
+	}
+
+	artisans=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 4616
+	}
+
+	clergymen=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 750
+	}
+
+	bureaucrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 323
+	}
+
+	officers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 150
+	}
+
+	aristocrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 969
+	}
+
+	farmers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 107434
+	}
+
+}
+765 = {
+	soldiers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 771
+	}
+
+	artisans=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 10797
+	}
+
+	clergymen=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 1003
+	}
+
+	bureaucrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 216
+	}
+
+	officers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 100
+	}
+
+	aristocrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 648
+	}
+
+	farmers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 63584
+	}
+
+}
+766 = {
+	soldiers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 790
+	}
+
+	artisans=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 3030
+	}
+
+	clergymen=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 985
+	}
+
+	bureaucrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 273
+	}
+
+	officers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 99
+	}
+
+	aristocrats=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 637
+	}
+
+	farmers=
+	{
+		culture = south_italian
+		religion = catholic
+		size= 73183
+	}
+
+	soldiers=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 16
+	}
+
+	artisans=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 193
+	}
+
+	clergymen=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 63
+	}
+
+	bureaucrats=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 17
+	}
+
+	officers=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 6
+	}
+
+	aristocrats=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 41
+	}
+
+	farmers=
+	{
+		culture = south_italian
+		religion = protestant
+		size= 1242
+	}
+
+}
+1981 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 776
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1941
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 180
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 25
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 29
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 311
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 24469
+	}
+
+	soldiers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 731
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 5598
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 520
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 72
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 84
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 896
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = protestant
+		size= 18218
+	}
+
+}
+2567 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1189
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 16651
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 773
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 428
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 155
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 999
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 98740
+	}
+
+}
+2669 = {
+	soldiers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 2371
+	}
+
+	artisans=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 8970
+	}
+
+	clergymen=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 833
+	}
+
+	bureaucrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 179
+	}
+
+	officers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 128
+	}
+
+	aristocrats=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 1615
+	}
+
+	farmers=
+	{
+		culture = north_italian
+		religion = catholic
+		size= 49976
+	}
+
+}

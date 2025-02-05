@@ -1,0 +1,637 @@
+2337 = {
+	soldiers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 170
+	}
+
+	craftsmen=
+	{
+		culture = chacoan
+		religion = animist
+		size= 1014
+	}
+
+	artisans=
+	{
+		culture = chacoan
+		religion = animist
+		size= 106
+	}
+
+	clergymen=
+	{
+		culture = chacoan
+		religion = animist
+		size= 5
+	}
+
+	clerks=
+	{
+		culture = chacoan
+		religion = animist
+		size= 15
+	}
+
+	bureaucrats=
+	{
+		culture = chacoan
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 2
+	}
+
+	capitalists=
+	{
+		culture = chacoan
+		religion = animist
+		size= 1
+	}
+
+	aristocrats=
+	{
+		culture = chacoan
+		religion = animist
+		size= 6
+	}
+
+	farmers=
+	{
+		culture = chacoan
+		religion = animist
+		size= 1717
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 41
+	}
+
+	craftsmen=
+	{
+		culture = guarani
+		religion = animist
+		size= 243
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = animist
+		size= 157
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = animist
+		size= 7
+	}
+
+	clerks=
+	{
+		culture = guarani
+		religion = animist
+		size= 23
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 2
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = animist
+		size= 2
+	}
+
+	capitalists=
+	{
+		culture = guarani
+		religion = animist
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = animist
+		size= 9
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 242
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = jewish
+		size= 1160
+	}
+
+	craftsmen=
+	{
+		culture = guarani
+		religion = jewish
+		size= 6913
+	}
+
+	artisans=
+	{
+		culture = guarani
+		religion = jewish
+		size= 3162
+	}
+
+	clergymen=
+	{
+		culture = guarani
+		religion = jewish
+		size= 147
+	}
+
+	clerks=
+	{
+		culture = guarani
+		religion = jewish
+		size= 455
+	}
+
+	bureaucrats=
+	{
+		culture = guarani
+		religion = jewish
+		size= 45
+	}
+
+	officers=
+	{
+		culture = guarani
+		religion = jewish
+		size= 47
+	}
+
+	capitalists=
+	{
+		culture = guarani
+		religion = jewish
+		size= 39
+	}
+
+	aristocrats=
+	{
+		culture = guarani
+		religion = jewish
+		size= 190
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = jewish
+		size= 8548
+	}
+
+}
+2338 = {
+	soldiers=
+	{
+		culture = grootdesseyn
+		religion = animist
+		size= 224
+	}
+
+	farmers=
+	{
+		culture = grootdesseyn
+		religion = animist
+		size= 3783
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1050
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 14391
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 3191
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 191
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 148
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 45
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 47
+	}
+
+}
+2339 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 762
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 692
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 10911
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = jewish
+		size= 4702
+	}
+
+	soldiers=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 4272
+	}
+
+	farmers=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 61670
+	}
+
+	artisans=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 3546
+	}
+
+	aristocrats=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 1490
+	}
+
+	clergymen=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 576
+	}
+
+	bureaucrats=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 176
+	}
+
+	officers=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 186
+	}
+
+}
+2340 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 222
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 3745
+	}
+
+	farmers=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 17009
+	}
+
+	soldiers=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 1096
+	}
+
+	artisans=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 944
+	}
+
+	aristocrats=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 396
+	}
+
+	clergymen=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 153
+	}
+
+	bureaucrats=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 47
+	}
+
+	officers=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 49
+	}
+
+}
+2341 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 325
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 5477
+	}
+
+	farmers=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 25803
+	}
+
+	soldiers=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 1648
+	}
+
+	artisans=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 1409
+	}
+
+	clergymen=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 228
+	}
+
+	aristocrats=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 296
+	}
+
+	bureaucrats=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 69
+	}
+
+	officers=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 74
+	}
+
+}
+2342 = {
+	slaves=
+	{
+		culture = guarani
+		religion = animist
+		size= 291
+	}
+
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 147
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 2190
+	}
+
+	slaves=
+	{
+		culture = afro_norse
+		religion = jewish
+		size= 1792
+	}
+
+	soldiers=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 906
+	}
+
+	farmers=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 12317
+	}
+
+	artisans=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 753
+	}
+
+	aristocrats=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 316
+	}
+
+	clergymen=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 122
+	}
+
+	bureaucrats=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 37
+	}
+
+	officers=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 39
+	}
+
+}
+2343 = {
+	soldiers=
+	{
+		culture = guarani
+		religion = animist
+		size= 191
+	}
+
+	farmers=
+	{
+		culture = guarani
+		religion = animist
+		size= 3213
+	}
+
+	farmers=
+	{
+		culture = tupinamba
+		religion = animist
+		size= 7
+	}
+
+	soldiers=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 7233
+	}
+
+	farmers=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 5519
+	}
+
+	artisans=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 683
+	}
+
+	clergymen=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 110
+	}
+
+	aristocrats=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 143
+	}
+
+	bureaucrats=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 34
+	}
+
+	officers=
+	{
+		culture = grootdesseyn
+		religion = jewish
+		size= 35
+	}
+
+}

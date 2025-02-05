@@ -1,0 +1,759 @@
+935 = {
+	soldiers=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 133
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 266
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 50
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 13
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 5
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 168
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = shiite
+		size= 12686
+	}
+
+	soldiers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 143
+	}
+
+	artisans=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 838
+	}
+
+	clergymen=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 157
+	}
+
+	bureaucrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 40
+	}
+
+	officers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 17
+	}
+
+	aristocrats=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 528
+	}
+
+	farmers=
+	{
+		culture = mashriqi
+		religion = sunni
+		size= 12566
+	}
+
+}
+1162 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = shiite
+		size= 561
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 97
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 217
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 16
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 5
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 20
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 8716
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 539
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 93
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 635
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 46
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 14
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 9
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 59
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 7857
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 269
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 46
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 1269
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 92
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 28
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 118
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 2786
+	}
+
+}
+1165 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = shiite
+		size= 685
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 102
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 230
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 17
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 5
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 21
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 9172
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 644
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 96
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 664
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 48
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 15
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 10
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 62
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 8089
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 341
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 51
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 1353
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 98
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 30
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 20
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 126
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 3085
+	}
+
+}
+1167 = {
+	slaves=
+	{
+		culture = african_minor
+		religion = shiite
+		size= 711
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 149
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 120
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 9
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 4
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 3
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 22
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = shiite
+		size= 4315
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = sunni
+		size= 8681
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 7233
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 5725
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 413
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 171
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 134
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 1068
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 41688
+	}
+
+	slaves=
+	{
+		culture = african_minor
+		religion = catholic
+		size= 396
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 83
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 763
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 55
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 23
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 18
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 142
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 1492
+	}
+
+}
+1168 = {
+	soldiers=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 66
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 66
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 11
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 4
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 2
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 28
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = ibadi
+		size= 6391
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 71
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 207
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 34
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 12
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 7
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 87
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = sunni
+		size= 6637
+	}
+
+	soldiers=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 36
+	}
+
+	artisans=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 416
+	}
+
+	clergymen=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 68
+	}
+
+	bureaucrats=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 25
+	}
+
+	officers=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 14
+	}
+
+	aristocrats=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 175
+	}
+
+	farmers=
+	{
+		culture = bedouin
+		religion = catholic
+		size= 2857
+	}
+
+}

@@ -1,0 +1,228 @@
+1326 = {
+	slaves=
+	{
+		culture = nepali
+		religion = hindu
+		size= 5955
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 3927
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = hindu
+		size= 4776
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = hindu
+		size= 345
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 143
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 133
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 446
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 37345
+	}
+
+	slaves=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 4502
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 2969
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 1805
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 130
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 54
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 50
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 169
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = gelugpa
+		size= 30441
+	}
+
+	slaves=
+	{
+		culture = nepali
+		religion = sunni
+		size= 7077
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = sunni
+		size= 4667
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = sunni
+		size= 7482
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = sunni
+		size= 540
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = sunni
+		size= 224
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = sunni
+		size= 208
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = sunni
+		size= 698
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = sunni
+		size= 42175
+	}
+
+}
+1327 = {
+	slaves=
+	{
+		culture = nepali
+		religion = hindu
+		size= 25182
+	}
+
+	soldiers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 4277
+	}
+
+	artisans=
+	{
+		culture = nepali
+		religion = hindu
+		size= 6109
+	}
+
+	clergymen=
+	{
+		culture = nepali
+		religion = hindu
+		size= 993
+	}
+
+	bureaucrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 290
+	}
+
+	officers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 319
+	}
+
+	aristocrats=
+	{
+		culture = nepali
+		religion = hindu
+		size= 2566
+	}
+
+	farmers=
+	{
+		culture = nepali
+		religion = hindu
+		size= 113007
+	}
+
+}
