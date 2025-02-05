@@ -1,7 +1,0 @@
-owner=ENG
-controller=ENG
-add_core=ENG
-add_core=SCA
-add_core=SMI
-trade_goods = iron
-life_rating = 10

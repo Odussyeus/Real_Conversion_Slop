@@ -1,8 +1,0 @@
-owner=FRA
-controller=BAV
-add_core=BAV
-add_core=FRA
-add_core=GER
-add_core=MEM
-trade_goods = cattle
-life_rating = 40

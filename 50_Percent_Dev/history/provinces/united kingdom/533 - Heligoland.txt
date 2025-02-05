@@ -1,0 +1,8 @@
+owner=LNB
+controller=LNB
+add_core=GER
+add_core=LNB
+trade_goods = fish
+life_rating = 30
+terrain = small_island
+fort = 1

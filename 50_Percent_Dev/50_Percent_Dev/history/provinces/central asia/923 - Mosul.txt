@@ -1,8 +1,0 @@
-owner=AKK
-controller=AKK
-add_core=AKK
-add_core=SRN
-trade_goods = sulphur
-life_rating = 35
-terrain = dryhills
-fort = 1

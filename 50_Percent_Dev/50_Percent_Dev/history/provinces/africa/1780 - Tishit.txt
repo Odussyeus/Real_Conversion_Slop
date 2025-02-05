@@ -1,7 +1,0 @@
-owner=DLM
-controller=DLM
-add_core=DLM
-add_core=MCD
-add_core=YUG
-trade_goods = fruit
-life_rating = 35

@@ -1,7 +1,0 @@
-owner=LPL
-controller=ARG
-add_core=ARG
-add_core=LPL
-trade_goods = fruit
-life_rating = 15
-terrain = dryhills

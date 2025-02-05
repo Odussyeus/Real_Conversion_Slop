@@ -1,9 +1,0 @@
-owner=LAN
-controller=LAN
-add_core=JAV
-add_core=LAN
-add_core=MJP
-trade_goods = fruit
-life_rating = 35
-naval_base = 2
-fort = 1

@@ -1,0 +1,6 @@
+owner=ORM
+controller=ORM
+add_core=IRQ
+trade_goods = fruit
+life_rating = 10
+fort = 1

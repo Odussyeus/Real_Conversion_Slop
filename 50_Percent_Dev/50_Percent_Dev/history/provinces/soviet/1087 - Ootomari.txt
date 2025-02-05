@@ -1,6 +1,0 @@
-owner=CSH
-controller=CSH
-add_core=AIN
-add_core=CSH
-trade_goods = coal
-life_rating = 15

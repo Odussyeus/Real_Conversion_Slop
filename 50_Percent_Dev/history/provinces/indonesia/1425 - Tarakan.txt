@@ -1,0 +1,8 @@
+owner=BRU
+controller=BRU
+add_core=KTI
+add_core=MLY
+trade_goods = wool
+life_rating = 31
+naval_base = 2
+fort = 1
