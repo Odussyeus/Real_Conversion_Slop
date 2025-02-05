@@ -1,0 +1,209 @@
+2201 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 71
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 3477
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 12826
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 737
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 119
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 154
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 55
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 24
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 1033
+	}
+
+}
+2202 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 52
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 2549
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 10578
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 570
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 92
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 119
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 43
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 231
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 18
+	}
+
+}
+2203 = {
+	soldiers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 40
+	}
+
+	farmers=
+	{
+		culture = chibchan
+		religion = animist
+		size= 1977
+	}
+
+	farmers=
+	{
+		culture = central_american
+		religion = catholic
+		size= 56
+	}
+
+	artisans=
+	{
+		culture = central_american
+		religion = catholic
+		size= 1
+	}
+
+	artisans=
+	{
+		culture = platinean
+		religion = catholic
+		size= 528
+	}
+
+	farmers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 10190
+	}
+
+	aristocrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 110
+	}
+
+	clergymen=
+	{
+		culture = platinean
+		religion = catholic
+		size= 85
+	}
+
+	bureaucrats=
+	{
+		culture = platinean
+		religion = catholic
+		size= 40
+	}
+
+	officers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 17
+	}
+
+	soldiers=
+	{
+		culture = platinean
+		religion = catholic
+		size= 223
+	}
+
+}
