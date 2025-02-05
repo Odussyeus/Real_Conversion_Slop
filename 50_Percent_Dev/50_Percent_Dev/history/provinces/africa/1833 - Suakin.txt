@@ -1,7 +1,0 @@
-owner=NUB
-controller=NUB
-add_core=NUB
-add_core=X01
-trade_goods = fish
-life_rating = 31
-naval_base = 2

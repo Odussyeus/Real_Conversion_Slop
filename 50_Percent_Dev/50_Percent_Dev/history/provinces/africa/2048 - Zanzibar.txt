@@ -1,6 +1,0 @@
-owner=NET
-controller=NET
-add_core=SWA
-trade_goods = precious_goods
-life_rating = 40
-colonial=2

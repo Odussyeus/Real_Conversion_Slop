@@ -1,6 +1,0 @@
-owner=NEW
-controller=NEW
-add_core=MLS
-add_core=NEW
-trade_goods = grain
-life_rating = 31

@@ -1,8 +1,0 @@
-owner=DAI
-controller=CSH
-add_core=DAI
-add_core=IDO
-trade_goods = grain
-life_rating = 34
-naval_base = 2
-fort = 1

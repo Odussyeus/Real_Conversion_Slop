@@ -1,7 +1,0 @@
-owner=X08
-controller=X08
-add_core=HND
-add_core=X08
-add_core=XMA
-trade_goods = fish
-life_rating = 32

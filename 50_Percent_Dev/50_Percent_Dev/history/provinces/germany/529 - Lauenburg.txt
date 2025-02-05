@@ -1,6 +1,0 @@
-owner=LNB
-controller=LNB
-add_core=GER
-add_core=LNB
-trade_goods = grain
-life_rating = 40

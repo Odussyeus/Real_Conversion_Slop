@@ -1,8 +1,0 @@
-owner=ENG
-controller=ENG
-add_core=DEN
-add_core=ENG
-add_core=SCA
-trade_goods = fruit
-life_rating = 35
-fort = 1

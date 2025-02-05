@@ -1,7 +1,0 @@
-owner=LNA
-controller=LNA
-add_core=CDL
-add_core=CHI
-add_core=LNA
-trade_goods = tea
-life_rating = 32

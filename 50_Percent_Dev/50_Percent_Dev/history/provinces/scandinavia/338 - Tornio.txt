@@ -1,8 +1,0 @@
-owner=ENG
-controller=ENG
-add_core=ENG
-add_core=FIN
-add_core=SCA
-trade_goods = iron
-life_rating = 10
-terrain = boreal

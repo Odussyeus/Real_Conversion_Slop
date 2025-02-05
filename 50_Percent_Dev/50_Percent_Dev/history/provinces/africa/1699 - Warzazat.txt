@@ -1,9 +1,0 @@
-owner=SOS
-controller=SOS
-add_core=FEZ
-add_core=MOR
-add_core=SOS
-trade_goods = fruit
-life_rating = 31
-terrain = semidesert
-fort = 1

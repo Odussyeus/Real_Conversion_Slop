@@ -1,6 +1,0 @@
-owner=DLM
-controller=DLM
-add_core=ALB
-add_core=DLM
-trade_goods = cattle
-life_rating = 35
