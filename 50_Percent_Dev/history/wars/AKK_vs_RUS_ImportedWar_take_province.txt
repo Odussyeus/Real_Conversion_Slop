@@ -1,0 +1,16 @@
+name = "Aq Qoyunlu-Russian Nationalist War"
+
+1796.9.15 = {
+	add_attacker = AKK
+	add_attacker = TUN
+	add_attacker = BLC
+	add_defender = RUS
+	add_defender = LSK
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = AKK
+		receiver = RUS
+		state_province_id = 879
+	}
+}

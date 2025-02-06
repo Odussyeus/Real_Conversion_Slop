@@ -1,0 +1,1407 @@
+#Sphere of Influence
+
+ADA = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+AKK = {
+	value = -23
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARM = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BLM = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRA = {
+	value = 0
+	level = 2
+}
+BRE = {
+	value = 0
+	level = 2
+}
+BRN = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTN = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+BYT = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CHK = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+COL = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 70
+	influence_value = 5
+	level = 2
+}
+CRO = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DJA = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DLM = {
+	value = 58
+	influence_value = 2
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = -157
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FEZ = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -24
+	level = 2
+}
+GRE = {
+	value = 91
+	influence_value = 10
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+IPR = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KED = {
+	value = 0
+	level = 2
+}
+KEL = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KLE = {
+	value = 0
+	level = 2
+}
+KNG = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KTR = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LNB = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LPL = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 75
+	military_access = yes
+	influence_value = 56
+	level = 5
+}
+LUB = {
+	value = 0
+	level = 2
+}
+LUC = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+LUW = {
+	value = 0
+	level = 2
+}
+LUZ = {
+	value = 0
+	level = 2
+}
+MEC = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+ML1 = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLD = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 35
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+NUB = {
+	value = 0
+	level = 2
+}
+NUM = {
+	value = 0
+	level = 2
+}
+OLD = {
+	value = 0
+	level = 2
+}
+ORM = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIE = {
+	value = -142
+	level = 2
+}
+SLV = {
+	value = 62
+	influence_value = 3
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SOS = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 32
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+THU = {
+	value = 0
+	level = 2
+}
+TIM = {
+	value = 0
+	level = 2
+}
+TMB = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+URB = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 65
+	influence_value = 3
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Feofan Bibikov"
+	date="1774.9.2"
+	type=land
+	personality="stalwart"
+	background="brownnoser"
+}
+
+leader = {
+	name="Afanasiy Koltsov-Mosalski"
+	date="1779.9.30"
+	type=sea
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Oleg Khabarov"
+	date="1788.5.8"
+	type=land
+	personality="coolminded"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Pyotr Tomasov"
+	date="1788.5.9"
+	type=land
+	personality="disciplined"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Demyan Ovchina-Obolenski"
+	date="1790.2.3"
+	type=sea
+	personality="tactful"
+	background="pawn"
+}
+
+leader = {
+	name="Stanislav Tottleben"
+	date="1791.8.2"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Alexei Pozharski"
+	date="1791.8.5"
+	type=land
+	personality="resolute"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Yuriy Basmanov"
+	date="1792.2.17"
+	type=land
+	personality="chivalrous"
+	background="cavalry_school"
+}
+
+leader = {
+	name="Feofan Shein"
+	date="1797.3.8"
+	type=sea
+	personality="soldierly"
+	background="war_college"
+}
+
+leader = {
+	name="Andrei Orlov"
+	date="1797.3.29"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+
+#Armies
+army = {
+	name="Army of Poland"
+	location=2689
+	regiment = {
+		name="1st Uralsk Infantry"
+		type=infantry
+		home=2610
+	}
+	regiment = {
+		name="1st Kotlas Infantry"
+		type=infantry
+		home=990
+	}
+	regiment = {
+		name="1st Usogorsk Artillery"
+		type=artillery
+		home=2700
+	}
+	regiment = {
+		name="1st Perm Infantry"
+		type=infantry
+		home=1026
+	}
+	regiment = {
+		name="2nd Ekaterinburg Artillery"
+		type=artillery
+		home=1058
+	}
+}
+
+navy = {
+	name="Red Squadron"
+	location=2772
+	ship = {
+		name="Sviatoslav"
+		type=manowar
+	}
+	ship = {
+		name="Vola"
+		type=manowar
+	}
+	ship = {
+		name="Andrei"
+		type=manowar
+	}
+	ship = {
+		name="Fershampenuaz"
+		type=manowar
+	}
+	ship = {
+		name="Konstantin"
+		type=manowar
+	}
+	ship = {
+		name="Gavriil"
+		type=manowar
+	}
+	ship = {
+		name="Selafail"
+		type=manowar
+	}
+	ship = {
+		name="Varna"
+		type=manowar
+	}
+	ship = {
+		name="Yagudiil"
+		type=manowar
+	}
+	ship = {
+		name="Dvenadtsat Apostolov"
+		type=manowar
+	}
+	ship = {
+		name="Rostislav"
+		type=manowar
+	}
+	ship = {
+		name="Razboinik"
+		type=clipper_transport
+	}
+	ship = {
+		name="Strelok"
+		type=clipper_transport
+	}
+	ship = {
+		name="Dzhigit"
+		type=clipper_transport
+	}
+	ship = {
+		name="Oprichnik"
+		type=clipper_transport
+	}
+	ship = {
+		name="Nayezdnik"
+		type=clipper_transport
+	}
+	ship = {
+		name="Plastun"
+		type=clipper_transport
+	}
+	ship = {
+		name="Gaidamak"
+		type=clipper_transport
+	}
+	ship = {
+		name="Abrek"
+		type=clipper_transport
+	}
+	ship = {
+		name="Vsadnik"
+		type=clipper_transport
+	}
+	ship = {
+		name="Almaz"
+		type=clipper_transport
+	}
+	ship = {
+		name="Zhemchug"
+		type=clipper_transport
+	}
+	ship = {
+		name="Izumrud"
+		type=clipper_transport
+	}
+	ship = {
+		name="Yakhont"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Arkhangelsk Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Arkhangelsk Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Russian Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="8th Arkhangelsk Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="9th Arkhangelsk Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Onega Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="10th Arkhangelsk Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Dubrovnik Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Simferopol Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Simferopol Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Khrabryi"
+		type=manowar
+	}
+	ship = {
+		name="11th Arkhangelsk Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+navy = {
+	name="Blue Squadron"
+	location=2776
+	ship = {
+		name="Kulevtcha"
+		type=frigate
+	}
+	ship = {
+		name="Kagul"
+		type=frigate
+	}
+	ship = {
+		name="Kamchatka"
+		type=frigate
+	}
+	ship = {
+		name="Polkan"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2776
+	ship = {
+		name="Odessa"
+		type=frigate
+	}
+	ship = {
+		name="Arkhimed"
+		type=frigate
+	}
+}
+
+army = {
+	name="15th Army"
+	location=2689
+	regiment = {
+		name="1st Peremyshl Infantry"
+		type=infantry
+		home=1015
+	}
+	regiment = {
+		name="1st Ryazan Infantry"
+		type=infantry
+		home=1012
+	}
+	regiment = {
+		name="3rd Kostorma Infantry"
+		type=infantry
+		home=1023
+	}
+}
+
+army = {
+	name="Army of the Ural"
+	location=987
+	regiment = {
+		name="1st Kostorma Infantry"
+		type=infantry
+		home=1023
+	}
+	regiment = {
+		name="2nd Kostorma Infantry"
+		type=infantry
+		home=1023
+	}
+	regiment = {
+		name="1st Ivanovo Cavalry"
+		type=cavalry
+		home=1022
+	}
+	regiment = {
+		name="1st Nizhni Novgorod Infantry"
+		type=infantry
+		home=1020
+	}
+	regiment = {
+		name="4th Poltava Cavalry"
+		type=cavalry
+		home=963
+	}
+}
+
+army = {
+	name="20th Army"
+	location=2687
+	regiment = {
+		name="1st Vyazma Infantry"
+		type=infantry
+		home=1014
+	}
+	regiment = {
+		name="2nd Ryazan Infantry"
+		type=infantry
+		home=1012
+	}
+	regiment = {
+		name="3rd Yaroslavl Infantry"
+		type=infantry
+		home=1001
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1030
+	regiment = {
+		name="1st Tambov Infantry"
+		type=infantry
+		home=1025
+	}
+	regiment = {
+		name="1st Krasnoyarsk Cavalry"
+		type=cavalry
+		home=1077
+	}
+	regiment = {
+		name="1st Tambov Artillery"
+		type=artillery
+		home=1025
+	}
+	regiment = {
+		name="1st Sarapul Artillery"
+		type=artillery
+		home=1031
+	}
+	regiment = {
+		name="1st Omsk Artillery"
+		type=artillery
+		home=1064
+	}
+	regiment = {
+		name="5th Poltava Infantry"
+		type=infantry
+		home=963
+	}
+	regiment = {
+		name="3rd Poltava Cavalry"
+		type=cavalry
+		home=963
+	}
+	regiment = {
+		name="6th Tambov Artillery"
+		type=artillery
+		home=1025
+	}
+}
+
+army = {
+	name="32nd Army"
+	location=1030
+	regiment = {
+		name="1st Kazan Infantry"
+		type=infantry
+		home=1030
+	}
+	regiment = {
+		name="1st Yaroslavl Infantry"
+		type=infantry
+		home=1001
+	}
+	regiment = {
+		name="1st Moscow Cavalry"
+		type=cavalry
+		home=1008
+	}
+	regiment = {
+		name="1st Borodino Artillery"
+		type=artillery
+		home=1009
+	}
+	regiment = {
+		name="1st Krasnoyarsk Artillery"
+		type=artillery
+		home=1077
+	}
+	regiment = {
+		name="2nd Tambov Artillery"
+		type=artillery
+		home=1025
+	}
+	regiment = {
+		name="9th Poltava Infantry"
+		type=infantry
+		home=963
+	}
+	regiment = {
+		name="1st Tambov Cavalry"
+		type=cavalry
+		home=1025
+	}
+}
+
+army = {
+	name="30th Army"
+	location=1021
+	regiment = {
+		name="1st Sarapul Infantry"
+		type=infantry
+		home=1031
+	}
+	regiment = {
+		name="1st Omsk Infantry"
+		type=infantry
+		home=1064
+	}
+	regiment = {
+		name="1st Chistopol Cavalry"
+		type=cavalry
+		home=1032
+	}
+	regiment = {
+		name="1st Narym Artillery"
+		type=artillery
+		home=2683
+	}
+	regiment = {
+		name="1st Kazan Artillery"
+		type=artillery
+		home=1030
+	}
+	regiment = {
+		name="1st Kuznetsk Artillery"
+		type=artillery
+		home=2698
+	}
+	regiment = {
+		name="5th Poltava Cavalry"
+		type=cavalry
+		home=963
+	}
+	regiment = {
+		name="10th Tambov Artillery"
+		type=artillery
+		home=1025
+	}
+}
+
+army = {
+	name="13th Army"
+	location=1021
+	regiment = {
+		name="1st Chernigov Infantry"
+		type=infantry
+		home=962
+	}
+	regiment = {
+		name="2nd Yaroslavl Infantry"
+		type=infantry
+		home=1001
+	}
+	regiment = {
+		name="2nd Moscow Cavalry"
+		type=cavalry
+		home=1008
+	}
+	regiment = {
+		name="1st Vladimir Artillery"
+		type=artillery
+		home=1013
+	}
+	regiment = {
+		name="2nd Borodino Artillery"
+		type=artillery
+		home=1009
+	}
+	regiment = {
+		name="2nd Krasnoyarsk Artillery"
+		type=artillery
+		home=1077
+	}
+	regiment = {
+		name="1st Bryansk Artillery"
+		type=artillery
+		home=1016
+	}
+	regiment = {
+		name="1st Glasov Artillery"
+		type=artillery
+		home=1029
+	}
+	regiment = {
+		name="2nd Tambov Cavalry"
+		type=cavalry
+		home=1025
+	}
+	regiment = {
+		name="9th Tambov Artillery"
+		type=artillery
+		home=1025
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1019
+	regiment = {
+		name="2nd Sarapul Artillery"
+		type=artillery
+		home=1031
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1037
+	regiment = {
+		name="2nd Omsk Infantry"
+		type=infantry
+		home=1064
+	}
+	regiment = {
+		name="1st Chistopol Infantry"
+		type=infantry
+		home=1032
+	}
+	regiment = {
+		name="1st Kazan Cavalry"
+		type=cavalry
+		home=1030
+	}
+	regiment = {
+		name="1st Chernigov Artillery"
+		type=artillery
+		home=962
+	}
+	regiment = {
+		name="1st Syzran Artillery"
+		type=artillery
+		home=1035
+	}
+	regiment = {
+		name="1st Nizhni Novgorod Artillery"
+		type=artillery
+		home=1020
+	}
+	regiment = {
+		name="10th Poltava Infantry"
+		type=infantry
+		home=963
+	}
+	regiment = {
+		name="6th Tambov Cavalry"
+		type=cavalry
+		home=1025
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1052
+	regiment = {
+		name="1st Poltava Infantry"
+		type=infantry
+		home=963
+	}
+	regiment = {
+		name="3rd Ryazan Infantry"
+		type=infantry
+		home=1012
+	}
+	regiment = {
+		name="1st Vladimir Cavalry"
+		type=cavalry
+		home=1013
+	}
+	regiment = {
+		name="1st Novo Uzensk Artillery"
+		type=artillery
+		home=1038
+	}
+	regiment = {
+		name="1st Ekaterinburg Artillery"
+		type=artillery
+		home=1058
+	}
+	regiment = {
+		name="1st Kokshetau Artillery"
+		type=artillery
+		home=1184
+	}
+	regiment = {
+		name="11th Poltava Infantry"
+		type=infantry
+		home=963
+	}
+	regiment = {
+		name="7th Tambov Cavalry"
+		type=cavalry
+		home=1025
+	}
+}
+
+army = {
+	name="45th Army"
+	location=1019
+	regiment = {
+		name="1st Voronezh Infantry"
+		type=infantry
+		home=1019
+	}
+	regiment = {
+		name="1st Bryansk Infantry"
+		type=infantry
+		home=1016
+	}
+	regiment = {
+		name="1st Glasov Cavalry"
+		type=cavalry
+		home=1029
+	}
+	regiment = {
+		name="1st Nyagan Artillery"
+		type=artillery
+		home=1065
+	}
+	regiment = {
+		name="12th Poltava Infantry"
+		type=infantry
+		home=963
+	}
+	regiment = {
+		name="7th Tambov Artillery"
+		type=artillery
+		home=1025
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1032
+	regiment = {
+		name="1st Simbirsk Infantry"
+		type=infantry
+		home=1033
+	}
+	regiment = {
+		name="1st Tula Infantry"
+		type=infantry
+		home=1011
+	}
+	regiment = {
+		name="1st Azov Cavalry"
+		type=cavalry
+		home=1047
+	}
+	regiment = {
+		name="8th Poltava Infantry"
+		type=infantry
+		home=963
+	}
+	regiment = {
+		name="3rd Tambov Cavalry"
+		type=cavalry
+		home=1025
+	}
+}
+
+army = {
+	name="10th Army"
+	location=1032
+	regiment = {
+		name="1st Samara Infantry"
+		type=infantry
+		home=1034
+	}
+	regiment = {
+		name="1st Orsha Infantry"
+		type=infantry
+		home=944
+	}
+	regiment = {
+		name="2nd Chistopol Cavalry"
+		type=cavalry
+		home=1032
+	}
+	regiment = {
+		name="1st Gomel Artillery"
+		type=artillery
+		home=949
+	}
+	regiment = {
+		name="4th Tambov Cavalry"
+		type=cavalry
+		home=1025
+	}
+	regiment = {
+		name="8th Tambov Artillery"
+		type=artillery
+		home=1025
+	}
+}
+
+army = {
+	name="12th Army"
+	location=1052
+	regiment = {
+		name="1st Orsk Infantry"
+		type=infantry
+		home=1060
+	}
+	regiment = {
+		name="2nd Peremyshl Infantry"
+		type=infantry
+		home=1015
+	}
+	regiment = {
+		name="1st Chernigov Cavalry"
+		type=cavalry
+		home=962
+	}
+	regiment = {
+		name="1st Tsaritsyn Artillery"
+		type=artillery
+		home=1039
+	}
+	regiment = {
+		name="13th Poltava Infantry"
+		type=infantry
+		home=963
+	}
+	regiment = {
+		name="5th Tambov Cavalry"
+		type=cavalry
+		home=1025
+	}
+	regiment = {
+		name="4th Tambov Artillery"
+		type=artillery
+		home=1025
+	}
+}
+
+army = {
+	name="19th Army"
+	location=1032
+	regiment = {
+		name="1st Chelyabinsk Infantry"
+		type=infantry
+		home=1059
+	}
+	regiment = {
+		name="1st Vitebsk Cavalry"
+		type=cavalry
+		home=945
+	}
+	regiment = {
+		name="1st Orenburg Artillery"
+		type=artillery
+		home=1044
+	}
+	regiment = {
+		name="2nd Syzran Artillery"
+		type=artillery
+		home=1035
+	}
+	regiment = {
+		name="7th Poltava Infantry"
+		type=infantry
+		home=963
+	}
+	regiment = {
+		name="11th Tambov Artillery"
+		type=artillery
+		home=1025
+	}
+}
+
+army = {
+	name="14th Army"
+	location=1032
+	regiment = {
+		name="2nd Poltava Infantry"
+		type=infantry
+		home=963
+	}
+	regiment = {
+		name="3rd Poltava Infantry"
+		type=infantry
+		home=963
+	}
+	regiment = {
+		name="1st Poltava Cavalry"
+		type=cavalry
+		home=963
+	}
+	regiment = {
+		name="1st Poltava Artillery"
+		type=artillery
+		home=963
+	}
+	regiment = {
+		name="5th Tambov Artillery"
+		type=artillery
+		home=1025
+	}
+}
+
+army = {
+	name="20th Army"
+	location=1019
+	regiment = {
+		name="4th Poltava Infantry"
+		type=infantry
+		home=963
+	}
+	regiment = {
+		name="2nd Poltava Cavalry"
+		type=cavalry
+		home=963
+	}
+	regiment = {
+		name="2nd Poltava Artillery"
+		type=artillery
+		home=963
+	}
+	regiment = {
+		name="3rd Poltava Artillery"
+		type=artillery
+		home=963
+	}
+	regiment = {
+		name="6th Poltava Infantry"
+		type=infantry
+		home=963
+	}
+	regiment = {
+		name="3rd Tambov Artillery"
+		type=artillery
+		home=1025
+	}
+}
+
+army = {
+	name="1st Army"
+	location=2676
+	regiment = {
+		name="1st Omsukchan Infantry"
+		type=infantry
+		home=2638
+	}
+	regiment = {
+		name="1st Ilimsk Infantry"
+		type=infantry
+		home=2677
+	}
+	regiment = {
+		name="2nd Ilimsk Infantry"
+		type=infantry
+		home=2677
+	}
+}
+

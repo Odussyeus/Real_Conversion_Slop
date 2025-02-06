@@ -1,0 +1,30 @@
+#Sphere of Influence
+
+BOH = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+DLM = {
+	value = 0
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+SER = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+
+#Armies

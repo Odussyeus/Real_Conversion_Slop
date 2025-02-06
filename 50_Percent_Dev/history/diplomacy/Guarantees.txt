@@ -1,0 +1,16 @@
+guarantee=
+{
+	first="SAX"
+	second="BRN"
+	start_date="1784.7.2"
+	end_date="1936.1.1"
+}
+
+guarantee=
+{
+	first="SPA"
+	second="POL"
+	start_date="1747.6.8"
+	end_date="1936.1.1"
+}
+

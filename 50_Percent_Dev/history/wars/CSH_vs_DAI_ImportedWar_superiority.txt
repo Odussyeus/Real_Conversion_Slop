@@ -1,0 +1,17 @@
+name = "Shun-Vietnamese war over Chinese Hegemony"
+
+1794.2.3 = {
+	add_attacker = CSH
+	add_attacker = DLH
+	add_attacker = JAP
+	add_defender = DAI
+	add_defender = KOR
+	add_defender = MLC
+
+	war_goal = {
+		casus_belli = acquire_substate_region
+		actor = CSH
+		receiver = DAI
+		state_province_id = 1504
+	}
+}

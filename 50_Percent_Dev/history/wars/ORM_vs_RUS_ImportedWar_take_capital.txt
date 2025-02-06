@@ -1,0 +1,15 @@
+name = "2nd Transoxianian-Russian Imperialist War"
+
+1794.6.9 = {
+	add_attacker = ORM
+	add_defender = RUS
+	add_defender = LSK
+
+	war_goal = {
+		casus_belli = acquire_state
+		actor = ORM
+		receiver = RUS
+		country = RUS
+		state_province_id = 1058
+	}
+}

@@ -1,0 +1,1257 @@
+#Sphere of Influence
+
+ADA = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+AKK = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 0
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BLM = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRA = {
+	value = 0
+	level = 2
+}
+BRE = {
+	value = 0
+	level = 2
+}
+BRN = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTN = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+BYT = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+CHK = {
+	value = 88
+	influence_value = 9
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+COL = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 79
+	influence_value = 7
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 41
+	level = 2
+}
+DJA = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 180
+	influence_value = 32
+	level = 4
+}
+DLM = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = -26
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FEZ = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = -1
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+IPR = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 186
+	influence_value = 34
+	level = 4
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KED = {
+	value = 0
+	level = 2
+}
+KEL = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KLE = {
+	value = 0
+	level = 2
+}
+KNG = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 59
+	influence_value = 2
+	level = 2
+}
+KTR = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 0
+	level = 2
+}
+LBN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 11
+	level = 2
+}
+LNB = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LPL = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+LUB = {
+	value = 0
+	level = 2
+}
+LUC = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+LUW = {
+	value = 0
+	level = 2
+}
+LUZ = {
+	value = 0
+	level = 2
+}
+MEC = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 0
+	level = 2
+}
+ML1 = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 0
+	level = 2
+}
+MLD = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 0
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+NUB = {
+	value = 0
+	level = 2
+}
+NUM = {
+	value = 0
+	level = 2
+}
+OLD = {
+	value = 0
+	level = 2
+}
+ORM = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PHG = {
+	value = 0
+	level = 2
+}
+POL = {
+	value = 0
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = 0
+	level = 2
+}
+SIE = {
+	value = 0
+	level = 2
+}
+SLV = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SOS = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+THU = {
+	value = 0
+	level = 2
+}
+TIM = {
+	value = 0
+	level = 2
+}
+TMB = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 201
+	military_access = yes
+	influence_value = 57
+	level = 5
+}
+VEN = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+YUE = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Qizhen V Li"
+	date="1789.8.12"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Boyuan Bao"
+	date="1774.10.25"
+	type=land
+	personality="coolminded"
+	background="brownnoser"
+}
+
+leader = {
+	name="Liang Geng"
+	date="1789.8.14"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Yu Qiu"
+	date="1789.8.17"
+	type=land
+	personality="resolute"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Tai Shang"
+	date="1789.8.19"
+	type=land
+	personality="stalwart"
+	background="bootlicker"
+}
+
+leader = {
+	name="Wenyong Chen"
+	date="1794.2.4"
+	type=land
+	personality="disciplined"
+	background="generals_aide"
+}
+
+leader = {
+	name="Yizan Qian"
+	date="1794.2.7"
+	type=land
+	personality="resolute"
+	background="generals_aide"
+}
+
+leader = {
+	name="Zhen Bai"
+	date="1794.3.14"
+	type=sea
+	personality="gallant"
+	background="drillmaster"
+}
+
+
+#Armies
+army = {
+	name="18th Army"
+	location=1562
+	regiment = {
+		name="1st Hanzhong Artillery"
+		type=artillery
+		home=1562
+	}
+	regiment = {
+		name="6th Hanzhong Artillery"
+		type=artillery
+		home=1562
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1626
+	regiment = {
+		name="1st Xian Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="1st Jiayuguan Irregulars"
+		type=irregular
+		home=1488
+	}
+	regiment = {
+		name="1st Yenan Artillery"
+		type=artillery
+		home=1561
+	}
+	regiment = {
+		name="1st Jilin Artillery"
+		type=artillery
+		home=1555
+	}
+	regiment = {
+		name="1st Hengzhou Artillery"
+		type=artillery
+		home=1527
+	}
+}
+
+army = {
+	name="7th Army"
+	location=1612
+	regiment = {
+		name="1st Otomari Irregulars"
+		type=irregular
+		home=1087
+	}
+	regiment = {
+		name="1st Yakesa Cavalry"
+		type=cavalry
+		home=1081
+	}
+	regiment = {
+		name="1st Jiayuguan Artillery"
+		type=artillery
+		home=1488
+	}
+	regiment = {
+		name="2nd Jiayuguan Artillery"
+		type=artillery
+		home=1488
+	}
+	regiment = {
+		name="1st Runing Artillery"
+		type=artillery
+		home=1514
+	}
+	regiment = {
+		name="1st Xian Artillery"
+		type=artillery
+		home=1559
+	}
+	regiment = {
+		name="2nd Jirim Chuulgan Irregulars"
+		type=irregular
+		home=1533
+	}
+	regiment = {
+		name="1st Tianjin Cavalry"
+		type=cavalry
+		home=1617
+	}
+	regiment = {
+		name="2nd Tianjin Cavalry"
+		type=cavalry
+		home=1617
+	}
+	regiment = {
+		name="1st Shangzhou Cavalry"
+		type=cavalry
+		home=2062
+	}
+}
+
+army = {
+	name="3rd Army"
+	location=1627
+	regiment = {
+		name="2nd Xian Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="1st Shangzhou Irregulars"
+		type=irregular
+		home=2062
+	}
+	regiment = {
+		name="2nd Xian Artillery"
+		type=artillery
+		home=1559
+	}
+	regiment = {
+		name="1st Bayan Tumen Artillery"
+		type=artillery
+		home=1467
+	}
+	regiment = {
+		name="1st Shangzhou Artillery"
+		type=artillery
+		home=2062
+	}
+}
+
+navy = {
+	name="5th Fleet"
+	location=1480
+	ship = {
+		name="1st Otomari Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lüshun Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Lüshun Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Pogobi Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Chengde Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="3rd Lüshun Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Wenzhou Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Chengde Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Jinzhou Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Huizhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Jinzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Mukden Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Shaoxing Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Shaoxing Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Otomari Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Chengde Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Yangzhou Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Otomari Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Mukden Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Tianjin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Peking Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Tianjin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Tianjin Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Boli Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Peking Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Peking Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Otomari Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lüshun Clipper Transport"
+		type=clipper_transport
+	}
+}
+
+army = {
+	name="8th Army"
+	location=1625
+	regiment = {
+		name="1st Qiqihar Irregulars"
+		type=irregular
+		home=1552
+	}
+	regiment = {
+		name="1st Baoqing Artillery"
+		type=artillery
+		home=1526
+	}
+	regiment = {
+		name="2nd Hanzhong Artillery"
+		type=artillery
+		home=1562
+	}
+	regiment = {
+		name="3rd Hanzhong Artillery"
+		type=artillery
+		home=1562
+	}
+	regiment = {
+		name="2nd Shangzhou Irregulars"
+		type=irregular
+		home=2062
+	}
+}
+
+army = {
+	name="11th Army"
+	location=1618
+	regiment = {
+		name="2nd Jiayuguan Irregulars"
+		type=irregular
+		home=1488
+	}
+	regiment = {
+		name="1st Utchan Cavalry"
+		type=cavalry
+		home=1084
+	}
+	regiment = {
+		name="3rd Xian Artillery"
+		type=artillery
+		home=1559
+	}
+	regiment = {
+		name="2nd Shangzhou Artillery"
+		type=artillery
+		home=2062
+	}
+	regiment = {
+		name="4th Hanzhong Artillery"
+		type=artillery
+		home=1562
+	}
+	regiment = {
+		name="1st Pingliang Irregulars"
+		type=irregular
+		home=1492
+	}
+	regiment = {
+		name="1st Daming Cavalry"
+		type=cavalry
+		home=1614
+	}
+	regiment = {
+		name="2nd Daming Cavalry"
+		type=cavalry
+		home=1614
+	}
+	regiment = {
+		name="1st Aigun Cavalry"
+		type=cavalry
+		home=1553
+	}
+	regiment = {
+		name="1st Gongchang Artillery"
+		type=artillery
+		home=1489
+	}
+}
+
+army = {
+	name="23rd Army"
+	location=1616
+	regiment = {
+		name="1st Manzhouli Irregulars"
+		type=irregular
+		home=1002
+	}
+	regiment = {
+		name="3rd Shangzhou Artillery"
+		type=artillery
+		home=2062
+	}
+	regiment = {
+		name="1st Pogobi Artillery"
+		type=artillery
+		home=1086
+	}
+	regiment = {
+		name="4th Xian Artillery"
+		type=artillery
+		home=1559
+	}
+	regiment = {
+		name="3rd Xian Irregulars"
+		type=irregular
+		home=1559
+	}
+	regiment = {
+		name="6th Xian Artillery"
+		type=artillery
+		home=1559
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1612
+	regiment = {
+		name="4th Shangzhou Artillery"
+		type=artillery
+		home=2062
+	}
+	regiment = {
+		name="2nd Hengzhou Artillery"
+		type=artillery
+		home=1527
+	}
+	regiment = {
+		name="1st Lanzhou Artillery"
+		type=artillery
+		home=1490
+	}
+}
+
+army = {
+	name="1st Army"
+	location=1612
+	regiment = {
+		name="3rd Jiayuguan Irregulars"
+		type=irregular
+		home=1488
+	}
+	regiment = {
+		name="1st Dali Artillery"
+		type=artillery
+		home=1602
+	}
+	regiment = {
+		name="4th Jiayuguan Irregulars"
+		type=irregular
+		home=1488
+	}
+	regiment = {
+		name="2nd Dali Artillery"
+		type=artillery
+		home=1602
+	}
+}
+
+army = {
+	name="13th Army"
+	location=1612
+	regiment = {
+		name="1st Chumikan Irregulars"
+		type=irregular
+		home=1080
+	}
+	regiment = {
+		name="3rd Jiayuguan Artillery"
+		type=artillery
+		home=1488
+	}
+	regiment = {
+		name="2nd Gongchang Artillery"
+		type=artillery
+		home=1489
+	}
+}
+
+army = {
+	name="25th Army"
+	location=1616
+	regiment = {
+		name="1st Jirim Chuulgan Irregulars"
+		type=irregular
+		home=1533
+	}
+	regiment = {
+		name="5th Xian Artillery"
+		type=artillery
+		home=1559
+	}
+	regiment = {
+		name="1st Yeke Juu Chuulghan Artillery"
+		type=artillery
+		home=1535
+	}
+	regiment = {
+		name="1st Luan Irregulars"
+		type=irregular
+		home=1574
+	}
+	regiment = {
+		name="4th Jiayuguan Artillery"
+		type=artillery
+		home=1488
+	}
+}
+
+army = {
+	name="16th Army"
+	location=1574
+	regiment = {
+		name="1st Chengde Irregulars"
+		type=irregular
+		home=1613
+	}
+	regiment = {
+		name="1st Sainshand Artillery"
+		type=artillery
+		home=2207
+	}
+	regiment = {
+		name="1st Jingkiri Artillery"
+		type=artillery
+		home=2697
+	}
+	regiment = {
+		name="1st Yeke Juu Chuulghan Irregulars"
+		type=irregular
+		home=1535
+	}
+	regiment = {
+		name="2nd Pingliang Artillery"
+		type=artillery
+		home=1492
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1499
+	ship = {
+		name="1st Wuding Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Peking Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Wuding Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Lüshun Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="3rd Fleet"
+	location=1480
+	ship = {
+		name="1st Mukden Man'o'war"
+		type=manowar
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=1480
+	ship = {
+		name="2nd Pogobi Man'o'war"
+		type=manowar
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1572
+	regiment = {
+		name="1st Pingliang Artillery"
+		type=artillery
+		home=1492
+	}
+	regiment = {
+		name="5th Hanzhong Artillery"
+		type=artillery
+		home=1562
+	}
+}
+
+navy = {
+	name="2nd Fleet"
+	location=1543
+	ship = {
+		name="2nd Wuding Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Nantong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Tongzhou Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="2nd Nantong Man'o'war"
+		type=manowar
+	}
+	ship = {
+		name="1st Qingzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Wuding Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Wuding Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Yangzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Wuding Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Yizhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="4th Qingzhou Frigate"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=2826
+	ship = {
+		name="2nd Yizhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Qingzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="1st Tongzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="3rd Qingzhou Frigate"
+		type=frigate
+	}
+	ship = {
+		name="2nd Tongzhou Frigate"
+		type=frigate
+	}
+}
+
+army = {
+	name="2nd Army"
+	location=1537
+	regiment = {
+		name="2nd Chengde Irregulars"
+		type=irregular
+		home=1613
+	}
+	regiment = {
+		name="1st Chengde Cavalry"
+		type=cavalry
+		home=1613
+	}
+	regiment = {
+		name="2nd Chengde Cavalry"
+		type=cavalry
+		home=1613
+	}
+	regiment = {
+		name="1st Luzhou Artillery"
+		type=artillery
+		home=1474
+	}
+	regiment = {
+		name="2nd Luzhou Artillery"
+		type=artillery
+		home=1474
+	}
+	regiment = {
+		name="1st Chengde Artillery"
+		type=artillery
+		home=1613
+	}
+	regiment = {
+		name="1st Guilin Artillery"
+		type=artillery
+		home=1503
+	}
+	regiment = {
+		name="1st Luzhou Irregulars"
+		type=irregular
+		home=1474
+	}
+	regiment = {
+		name="1st Guilin Cavalry"
+		type=cavalry
+		home=1503
+	}
+	regiment = {
+		name="3rd Chengde Cavalry"
+		type=cavalry
+		home=1613
+	}
+	regiment = {
+		name="1st Luzhou Cavalry"
+		type=cavalry
+		home=1474
+	}
+	regiment = {
+		name="2nd Guilin Artillery"
+		type=artillery
+		home=1503
+	}
+}
+
+army = {
+	name="4th Army"
+	location=1566
+	regiment = {
+		name="1st Laizhou Irregulars"
+		type=irregular
+		home=1565
+	}
+}
+

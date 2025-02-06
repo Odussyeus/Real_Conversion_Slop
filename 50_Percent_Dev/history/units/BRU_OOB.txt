@@ -1,0 +1,714 @@
+#Sphere of Influence
+
+ADA = {
+	value = 0
+	level = 2
+}
+AFG = {
+	value = 0
+	level = 2
+}
+AKK = {
+	value = 0
+	level = 2
+}
+ARG = {
+	value = 0
+	level = 2
+}
+ARM = {
+	value = 0
+	level = 2
+}
+ATJ = {
+	value = 0
+	level = 2
+}
+AYR = {
+	value = 0
+	level = 2
+}
+BAU = {
+	value = 98
+	influence_value = 12
+	level = 2
+}
+BAV = {
+	value = 0
+	level = 2
+}
+BLC = {
+	value = 0
+	level = 2
+}
+BLM = {
+	value = 0
+	level = 2
+}
+BNG = {
+	value = 0
+	level = 2
+}
+BOH = {
+	value = 0
+	level = 2
+}
+BRA = {
+	value = 0
+	level = 2
+}
+BRE = {
+	value = 0
+	level = 2
+}
+BRN = {
+	value = 0
+	level = 2
+}
+BRU = {
+	value = 0
+	level = 2
+}
+BRZ = {
+	value = 0
+	level = 2
+}
+BTN = {
+	value = 0
+	level = 2
+}
+BUL = {
+	value = 0
+	level = 2
+}
+BYT = {
+	value = 0
+	level = 2
+}
+CAL = {
+	value = 0
+	level = 2
+}
+CAM = {
+	value = 0
+	level = 2
+}
+CHK = {
+	value = 0
+	level = 2
+}
+CLM = {
+	value = 0
+	level = 2
+}
+COL = {
+	value = 0
+	level = 2
+}
+CRB = {
+	value = 0
+	level = 2
+}
+CSH = {
+	value = 0
+	level = 2
+}
+CUB = {
+	value = 0
+	level = 2
+}
+CWU = {
+	value = 0
+	level = 2
+}
+DAI = {
+	value = 0
+	level = 2
+}
+DJA = {
+	value = 0
+	level = 2
+}
+DLH = {
+	value = 0
+	level = 2
+}
+DLM = {
+	value = 0
+	level = 2
+}
+EGY = {
+	value = 0
+	level = 2
+}
+ENG = {
+	value = -55
+	level = 2
+}
+FER = {
+	value = 0
+	level = 2
+}
+FEZ = {
+	value = 0
+	level = 2
+}
+FJL = {
+	value = 0
+	level = 2
+}
+FJV = {
+	value = 0
+	level = 2
+}
+FJW = {
+	value = 0
+	level = 2
+}
+FLR = {
+	value = 0
+	level = 2
+}
+FRA = {
+	value = 27
+	level = 2
+}
+GRE = {
+	value = 0
+	level = 2
+}
+GUJ = {
+	value = 0
+	level = 2
+}
+HAU = {
+	value = 0
+	level = 2
+}
+HWH = {
+	value = 0
+	level = 2
+}
+IPR = {
+	value = 0
+	level = 2
+}
+JAP = {
+	value = 0
+	level = 2
+}
+KBO = {
+	value = 0
+	level = 2
+}
+KED = {
+	value = 48
+	level = 2
+}
+KEL = {
+	value = 0
+	level = 2
+}
+KLD = {
+	value = 0
+	level = 2
+}
+KLE = {
+	value = 0
+	level = 2
+}
+KNG = {
+	value = 0
+	level = 2
+}
+KOR = {
+	value = 0
+	level = 2
+}
+KTR = {
+	value = 0
+	level = 2
+}
+LAN = {
+	value = 25
+	level = 2
+}
+LBN = {
+	value = 0
+	level = 2
+}
+LNA = {
+	value = 0
+	level = 2
+}
+LNB = {
+	value = 0
+	level = 2
+}
+LOU = {
+	value = 0
+	level = 2
+}
+LPL = {
+	value = 0
+	level = 2
+}
+LSK = {
+	value = 0
+	level = 2
+}
+LUB = {
+	value = 0
+	level = 2
+}
+LUC = {
+	value = 0
+	level = 2
+}
+LUN = {
+	value = 0
+	level = 2
+}
+LUW = {
+	value = 0
+	level = 2
+}
+LUZ = {
+	value = 0
+	level = 2
+}
+MEC = {
+	value = 0
+	level = 2
+}
+MEX = {
+	value = 0
+	level = 2
+}
+MJP = {
+	value = 176
+	influence_value = 31
+	level = 4
+}
+ML1 = {
+	value = 0
+	level = 2
+}
+MLC = {
+	value = 188
+	influence_value = 34
+	level = 4
+}
+MLD = {
+	value = 0
+	level = 2
+}
+MLW = {
+	value = 0
+	level = 2
+}
+MNX = {
+	value = 0
+	level = 2
+}
+MOR = {
+	value = 0
+	level = 2
+}
+NET = {
+	value = 35
+	level = 2
+}
+NEW = {
+	value = 0
+	level = 2
+}
+NSS = {
+	value = 0
+	level = 2
+}
+NUB = {
+	value = 0
+	level = 2
+}
+NUM = {
+	value = 0
+	level = 2
+}
+OLD = {
+	value = 0
+	level = 2
+}
+ORM = {
+	value = 0
+	level = 2
+}
+PAP = {
+	value = 0
+	level = 2
+}
+PER = {
+	value = 0
+	level = 2
+}
+PEU = {
+	value = 0
+	level = 2
+}
+PGR = {
+	value = 0
+	level = 2
+}
+PHG = {
+	value = 194
+	influence_value = 36
+	level = 4
+}
+POL = {
+	value = 0
+	level = 2
+}
+PRO = {
+	value = 0
+	level = 2
+}
+RGS = {
+	value = 0
+	level = 2
+}
+RUS = {
+	value = 0
+	level = 2
+}
+SAX = {
+	value = 0
+	level = 2
+}
+SGH = {
+	value = 0
+	level = 2
+}
+SIA = {
+	value = -4
+	level = 2
+}
+SIE = {
+	value = 0
+	level = 2
+}
+SLV = {
+	value = 0
+	level = 2
+}
+SMO = {
+	value = 0
+	level = 2
+}
+SOS = {
+	value = 0
+	level = 2
+}
+SPA = {
+	value = 0
+	level = 2
+}
+SUN = {
+	value = 0
+	level = 2
+}
+SWE = {
+	value = 0
+	level = 2
+}
+TGA = {
+	value = 0
+	level = 2
+}
+THU = {
+	value = 0
+	level = 2
+}
+TIM = {
+	value = 0
+	level = 2
+}
+TMB = {
+	value = 0
+	level = 2
+}
+TRX = {
+	value = 0
+	level = 2
+}
+TUN = {
+	value = 0
+	level = 2
+}
+UKR = {
+	value = 0
+	level = 2
+}
+USA = {
+	value = 0
+	level = 2
+}
+UTS = {
+	value = 0
+	level = 2
+}
+VEN = {
+	value = 0
+	level = 2
+}
+WAL = {
+	value = 0
+	level = 2
+}
+X07 = {
+	value = 0
+	level = 2
+}
+X08 = {
+	value = 0
+	level = 2
+}
+X10 = {
+	value = 0
+	level = 2
+}
+X11 = {
+	value = 0
+	level = 2
+}
+ZIM = {
+	value = 0
+	level = 2
+}
+
+#Leaders
+leader = {
+	name="Alâ' ad-Dîn II Bolkiah"
+	date="1795.12.2"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Muhammad Bolkiah"
+	date="1795.12.5"
+	type=land
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+leader = {
+	name="Muhammad Tâj ad-Dîn Abdulfatah"
+	date="1791.9.23"
+	type=sea
+	personality="coolminded"
+	background="generals_aide"
+}
+
+leader = {
+	name="Hasan Syarifuddin"
+	date="1795.12.7"
+	type=land
+	personality="stalwart"
+	background="generals_aide"
+}
+
+leader = {
+	name="Sulaymân Kyai"
+	date="1797.7.31"
+	type=sea
+	personality="coolminded"
+	background="uncommonly_young"
+}
+
+
+#Armies
+army = {
+	name="3rd Army"
+	location=1397
+	regiment = {
+		name="1st Bintulu Irregulars"
+		type=irregular
+		home=1395
+	}
+	regiment = {
+		name="1st Tarakan Artillery"
+		type=artillery
+		home=1425
+	}
+	regiment = {
+		name="2nd Tarakan Artillery"
+		type=artillery
+		home=1425
+	}
+	regiment = {
+		name="3rd Bintulu Irregulars"
+		type=irregular
+		home=1395
+	}
+}
+
+army = {
+	name="6th Army"
+	location=1396
+	regiment = {
+		name="2nd Bintulu Irregulars"
+		type=irregular
+		home=1395
+	}
+	regiment = {
+		name="1st Brunei Cavalry"
+		type=cavalry
+		home=1393
+	}
+	regiment = {
+		name="1st Bintulu Artillery"
+		type=artillery
+		home=1395
+	}
+	regiment = {
+		name="1st Brunei Artillery"
+		type=artillery
+		home=1393
+	}
+	regiment = {
+		name="2nd Bintulu Artillery"
+		type=artillery
+		home=1395
+	}
+	regiment = {
+		name="4th Bintulu Irregulars"
+		type=irregular
+		home=1395
+	}
+	regiment = {
+		name="2nd Brunei Cavalry"
+		type=cavalry
+		home=1393
+	}
+	regiment = {
+		name="3rd Tarakan Artillery"
+		type=artillery
+		home=1425
+	}
+}
+
+navy = {
+	name="4th Fleet"
+	location=2814
+	ship = {
+		name="Rajah Brooke"
+		type=frigate
+	}
+	ship = {
+		name="Sungai Belait"
+		type=frigate
+	}
+	ship = {
+		name="Sungai Tutong"
+		type=frigate
+	}
+}
+
+navy = {
+	name="1st Fleet"
+	location=1393
+	ship = {
+		name="Sungai Tembureng"
+		type=manowar
+	}
+	ship = {
+		name="Batang"
+		type=manowar
+	}
+	ship = {
+		name="Trusan"
+		type=frigate
+	}
+	ship = {
+		name="Sungai Pandaruan"
+		type=frigate
+	}
+	ship = {
+		name="Lungai Limbang"
+		type=frigate
+	}
+	ship = {
+		name="Batang Baram"
+		type=frigate
+	}
+	ship = {
+		name="Sungai Bakong"
+		type=frigate
+	}
+	ship = {
+		name="Sungai Tutoh"
+		type=frigate
+	}
+	ship = {
+		name="Sungai Tinjar"
+		type=frigate
+	}
+	ship = {
+		name="1st Sandakan Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Brunei Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Bintulu Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="1st Api Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Brunei Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="3rd Brunei Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="2nd Api Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="4th Brunei Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="5th Brunei Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="6th Brunei Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="7th Brunei Clipper Transport"
+		type=clipper_transport
+	}
+	ship = {
+		name="Kuala Belait"
+		type=manowar
+	}
+	ship = {
+		name="Batu Danau"
+		type=frigate
+	}
+	ship = {
+		name="8th Brunei Clipper Transport"
+		type=clipper_transport
+	}
+}
+
