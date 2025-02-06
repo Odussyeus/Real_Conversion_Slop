@@ -1,105 +1,105 @@
 2024 = {
 	aristocrats=
 	{
-		culture = kikuyu
+		culture = forest_bantu
 		religion = animist
 		size= 925
 	}
 
 	clergymen=
 	{
-		culture = kikuyu
+		culture = forest_bantu
 		religion = animist
 		size= 475
 	}
 
 	artisans=
 	{
-		culture = kikuyu
+		culture = forest_bantu
 		religion = animist
 		size= 2400
 	}
 
 	soldiers=
 	{
-		culture = kikuyu
+		culture = forest_bantu
 		religion = animist
 		size= 500
 	}
 
 	farmers=
 	{
-		culture = kikuyu
+		culture = forest_bantu
 		religion = animist
 		size= 43700
 	}
 
 	aristocrats=
 	{
-		culture = nilotic
+		culture = forest_bantu
 		religion = animist
 		size= 200
 	}
 
 	clergymen=
 	{
-		culture = nilotic
+		culture = forest_bantu
 		religion = animist
 		size= 100
 	}
 
 	artisans=
 	{
-		culture = nilotic
+		culture = forest_bantu
 		religion = animist
 		size= 550
 	}
 
 	soldiers=
 	{
-		culture = nilotic
+		culture = forest_bantu
 		religion = animist
 		size= 125
 	}
 
 	farmers=
 	{
-		culture = nilotic
+		culture = forest_bantu
 		religion = animist
 		size= 10025
 	}
 
 	aristocrats=
 	{
-		culture = maasai
+		culture = forest_bantu
 		religion = animist
 		size= 50
 	}
 
 	clergymen=
 	{
-		culture = maasai
+		culture = forest_bantu
 		religion = animist
 		size= 50
 	}
 
 	artisans=
 	{
-		culture = maasai
+		culture = forest_bantu
 		religion = animist
 		size= 200
 	}
 
 	soldiers=
 	{
-		culture = maasai
+		culture = forest_bantu
 		religion = animist
 		size= 50
 	}
 
 	farmers=
 	{
-		culture = maasai
+		culture = forest_bantu
 		religion = animist
 		size= 3650
 	}
@@ -108,70 +108,70 @@
 2025 = {
 	aristocrats=
 	{
-		culture = kikuyu
+		culture = forest_bantu
 		religion = animist
 		size= 250
 	}
 
 	clergymen=
 	{
-		culture = kikuyu
+		culture = forest_bantu
 		religion = animist
 		size= 150
 	}
 
 	artisans=
 	{
-		culture = kikuyu
+		culture = forest_bantu
 		religion = animist
 		size= 650
 	}
 
 	soldiers=
 	{
-		culture = kikuyu
+		culture = forest_bantu
 		religion = animist
 		size= 125
 	}
 
 	farmers=
 	{
-		culture = kikuyu
+		culture = forest_bantu
 		religion = animist
 		size= 11875
 	}
 
 	aristocrats=
 	{
-		culture = oromo
+		culture = forest_bantu
 		religion = coptic
 		size= 100
 	}
 
 	clergymen=
 	{
-		culture = oromo
+		culture = forest_bantu
 		religion = coptic
 		size= 100
 	}
 
 	artisans=
 	{
-		culture = oromo
+		culture = forest_bantu
 		religion = coptic
 		size= 250
 	}
 
 	soldiers=
 	{
-		culture = oromo
+		culture = forest_bantu
 		religion = coptic
 		size= 100
 	}
 
 	farmers=
 	{
-		culture = oromo
+		culture = forest_bantu
 		religion = coptic
 		size= 4575
 	}
@@ -180,77 +180,77 @@
 2026 = {
 	aristocrats=
 	{
-		culture = luo
+		culture = forest_bantu
 		religion = animist
 		size= 100
 	}
 
 	clergymen=
 	{
-		culture = luo
+		culture = forest_bantu
 		religion = animist
 		size= 50
 	}
 
 	artisans=
 	{
-		culture = luo
+		culture = forest_bantu
 		religion = animist
 		size= 250
 	}
 
 	soldiers=
 	{
-		culture = luo
+		culture = forest_bantu
 		religion = animist
 		size= 75
 	}
 
 	farmers=
 	{
-		culture = luo
+		culture = forest_bantu
 		religion = animist
 		size= 4625
 	}
 
 	aristocrats=
 	{
-		culture = maasai
+		culture = forest_bantu
 		religion = animist
 		size= 50
 	}
 
 	clergymen=
 	{
-		culture = maasai
+		culture = forest_bantu
 		religion = animist
 		size= 75
 	}
 
 	artisans=
 	{
-		culture = maasai
+		culture = forest_bantu
 		religion = animist
 		size= 150
 	}
 
 	soldiers=
 	{
-		culture = maasai
+		culture = forest_bantu
 		religion = animist
 		size= 25
 	}
 
 	farmers=
 	{
-		culture = maasai
+		culture = forest_bantu
 		religion = animist
 		size= 2700
 	}
 
 	slaves=
 	{
-		culture = nilotic
+		culture = forest_bantu
 		religion = animist
 		size= 1100
 	}
@@ -259,112 +259,112 @@
 2027 = {
 	aristocrats=
 	{
-		culture = kikuyu
+		culture = forest_bantu
 		religion = animist
 		size= 150
 	}
 
 	clergymen=
 	{
-		culture = kikuyu
+		culture = forest_bantu
 		religion = animist
 		size= 125
 	}
 
 	artisans=
 	{
-		culture = kikuyu
+		culture = forest_bantu
 		religion = animist
 		size= 400
 	}
 
 	soldiers=
 	{
-		culture = kikuyu
+		culture = forest_bantu
 		religion = animist
 		size= 75
 	}
 
 	farmers=
 	{
-		culture = kikuyu
+		culture = forest_bantu
 		religion = animist
 		size= 7350
 	}
 
 	aristocrats=
 	{
-		culture = maasai
+		culture = forest_bantu
 		religion = animist
 		size= 300
 	}
 
 	clergymen=
 	{
-		culture = maasai
+		culture = forest_bantu
 		religion = animist
 		size= 150
 	}
 
 	artisans=
 	{
-		culture = maasai
+		culture = forest_bantu
 		religion = animist
 		size= 650
 	}
 
 	soldiers=
 	{
-		culture = maasai
+		culture = forest_bantu
 		religion = animist
 		size= 175
 	}
 
 	farmers=
 	{
-		culture = maasai
+		culture = forest_bantu
 		religion = animist
 		size= 11725
 	}
 
 	aristocrats=
 	{
-		culture = nilotic
+		culture = forest_bantu
 		religion = animist
 		size= 150
 	}
 
 	clergymen=
 	{
-		culture = nilotic
+		culture = forest_bantu
 		religion = animist
 		size= 75
 	}
 
 	artisans=
 	{
-		culture = nilotic
+		culture = forest_bantu
 		religion = animist
 		size= 400
 	}
 
 	soldiers=
 	{
-		culture = nilotic
+		culture = forest_bantu
 		religion = animist
 		size= 75
 	}
 
 	farmers=
 	{
-		culture = nilotic
+		culture = forest_bantu
 		religion = animist
 		size= 7300
 	}
 
 	slaves=
 	{
-		culture = nilotic
+		culture = forest_bantu
 		religion = animist
 		size= 3000
 	}
@@ -373,77 +373,77 @@
 2028 = {
 	aristocrats=
 	{
-		culture = luo
+		culture = forest_bantu
 		religion = animist
 		size= 375
 	}
 
 	clergymen=
 	{
-		culture = luo
+		culture = forest_bantu
 		religion = animist
 		size= 200
 	}
 
 	artisans=
 	{
-		culture = luo
+		culture = forest_bantu
 		religion = animist
 		size= 775
 	}
 
 	soldiers=
 	{
-		culture = luo
+		culture = forest_bantu
 		religion = animist
 		size= 300
 	}
 
 	farmers=
 	{
-		culture = luo
+		culture = forest_bantu
 		religion = animist
 		size= 20350
 	}
 
 	aristocrats=
 	{
-		culture = lacustrine_bantu
+		culture = forest_bantu
 		religion = animist
 		size= 375
 	}
 
 	clergymen=
 	{
-		culture = lacustrine_bantu
+		culture = forest_bantu
 		religion = animist
 		size= 200
 	}
 
 	artisans=
 	{
-		culture = lacustrine_bantu
+		culture = forest_bantu
 		religion = animist
 		size= 1100
 	}
 
 	soldiers=
 	{
-		culture = lacustrine_bantu
+		culture = forest_bantu
 		religion = animist
 		size= 200
 	}
 
 	farmers=
 	{
-		culture = lacustrine_bantu
+		culture = forest_bantu
 		religion = animist
 		size= 18225
 	}
 
 	slaves=
 	{
-		culture = lacustrine_bantu
+		culture = forest_bantu
 		religion = animist
 		size= 7000
 	}
@@ -452,56 +452,56 @@
 2029 = {
 	slaves=
 	{
-		culture = swahili
+		culture = forest_bantu
 		religion = sunni
 		size= 5708
 	}
 
 	soldiers=
 	{
-		culture = swahili
+		culture = forest_bantu
 		religion = sunni
 		size= 4133
 	}
 
 	artisans=
 	{
-		culture = swahili
+		culture = forest_bantu
 		religion = sunni
 		size= 6686
 	}
 
 	clergymen=
 	{
-		culture = swahili
+		culture = forest_bantu
 		religion = sunni
 		size= 310
 	}
 
 	bureaucrats=
 	{
-		culture = swahili
+		culture = forest_bantu
 		religion = sunni
 		size= 48
 	}
 
 	officers=
 	{
-		culture = swahili
+		culture = forest_bantu
 		religion = sunni
 		size= 100
 	}
 
 	aristocrats=
 	{
-		culture = swahili
+		culture = forest_bantu
 		religion = sunni
 		size= 401
 	}
 
 	farmers=
 	{
-		culture = swahili
+		culture = forest_bantu
 		religion = sunni
 		size= 30373
 	}
@@ -510,77 +510,77 @@
 2030 = {
 	aristocrats=
 	{
-		culture = swahili
+		culture = forest_bantu
 		religion = sunni
 		size= 225
 	}
 
 	clergymen=
 	{
-		culture = swahili
+		culture = forest_bantu
 		religion = sunni
 		size= 125
 	}
 
 	artisans=
 	{
-		culture = swahili
+		culture = forest_bantu
 		religion = sunni
 		size= 500
 	}
 
 	soldiers=
 	{
-		culture = swahili
+		culture = forest_bantu
 		religion = sunni
 		size= 125
 	}
 
 	farmers=
 	{
-		culture = swahili
+		culture = forest_bantu
 		religion = sunni
 		size= 10025
 	}
 
 	aristocrats=
 	{
-		culture = cushitic
+		culture = forest_bantu
 		religion = animist
 		size= 225
 	}
 
 	clergymen=
 	{
-		culture = cushitic
+		culture = forest_bantu
 		religion = animist
 		size= 125
 	}
 
 	artisans=
 	{
-		culture = cushitic
+		culture = forest_bantu
 		religion = animist
 		size= 600
 	}
 
 	soldiers=
 	{
-		culture = cushitic
+		culture = forest_bantu
 		religion = animist
 		size= 125
 	}
 
 	farmers=
 	{
-		culture = cushitic
+		culture = forest_bantu
 		religion = animist
 		size= 10925
 	}
 
 	slaves=
 	{
-		culture = cushitic
+		culture = forest_bantu
 		religion = animist
 		size= 2000
 	}
@@ -624,42 +624,42 @@
 
 	aristocrats=
 	{
-		culture = cushitic
+		culture = forest_bantu
 		religion = animist
 		size= 50
 	}
 
 	clergymen=
 	{
-		culture = cushitic
+		culture = forest_bantu
 		religion = animist
 		size= 50
 	}
 
 	artisans=
 	{
-		culture = cushitic
+		culture = forest_bantu
 		religion = animist
 		size= 200
 	}
 
 	soldiers=
 	{
-		culture = cushitic
+		culture = forest_bantu
 		religion = animist
 		size= 50
 	}
 
 	farmers=
 	{
-		culture = cushitic
+		culture = forest_bantu
 		religion = animist
 		size= 3650
 	}
 
 	slaves=
 	{
-		culture = cushitic
+		culture = forest_bantu
 		religion = animist
 		size= 1100
 	}
@@ -668,35 +668,35 @@
 2032 = {
 	aristocrats=
 	{
-		culture = kikuyu
+		culture = forest_bantu
 		religion = animist
 		size= 650
 	}
 
 	clergymen=
 	{
-		culture = kikuyu
+		culture = forest_bantu
 		religion = animist
 		size= 375
 	}
 
 	artisans=
 	{
-		culture = kikuyu
+		culture = forest_bantu
 		religion = animist
 		size= 1750
 	}
 
 	soldiers=
 	{
-		culture = kikuyu
+		culture = forest_bantu
 		religion = animist
 		size= 350
 	}
 
 	farmers=
 	{
-		culture = kikuyu
+		culture = forest_bantu
 		religion = animist
 		size= 31875
 	}
@@ -740,42 +740,42 @@
 2033 = {
 	aristocrats=
 	{
-		culture = kikuyu
+		culture = forest_bantu
 		religion = animist
 		size= 475
 	}
 
 	clergymen=
 	{
-		culture = kikuyu
+		culture = forest_bantu
 		religion = animist
 		size= 250
 	}
 
 	artisans=
 	{
-		culture = kikuyu
+		culture = forest_bantu
 		religion = animist
 		size= 1300
 	}
 
 	soldiers=
 	{
-		culture = kikuyu
+		culture = forest_bantu
 		religion = animist
 		size= 250
 	}
 
 	farmers=
 	{
-		culture = kikuyu
+		culture = forest_bantu
 		religion = animist
 		size= 20725
 	}
 
 	slaves=
 	{
-		culture = kikuyu
+		culture = forest_bantu
 		religion = animist
 		size= 3000
 	}
