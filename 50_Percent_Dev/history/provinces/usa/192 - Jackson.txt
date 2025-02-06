@@ -1,0 +1,7 @@
+owner=FLR
+controller=FLR
+add_core=CCW
+add_core=FLR
+add_core=NTZ
+trade_goods = cotton
+life_rating = 35

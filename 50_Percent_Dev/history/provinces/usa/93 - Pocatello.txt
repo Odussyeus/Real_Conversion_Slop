@@ -1,0 +1,6 @@
+owner=COL
+controller=COL
+add_core=CAL
+add_core=COL
+trade_goods = cattle
+life_rating = 35

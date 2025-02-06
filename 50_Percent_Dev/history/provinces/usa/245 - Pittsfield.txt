@@ -1,0 +1,7 @@
+owner=NEW
+controller=NEW
+add_core=NEW
+add_core=PEQ
+add_core=WAM
+trade_goods = iron
+life_rating = 35
