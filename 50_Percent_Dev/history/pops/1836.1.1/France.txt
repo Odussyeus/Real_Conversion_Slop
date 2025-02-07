@@ -157,11 +157,11 @@
 		size= 2677
 	}
 
-	artisans=
+	craftsmen=
 	{
 		culture = wallonian
-		religion = catholic
-		size= 4074
+		religion = protestant
+		size= 15074
 	}
 
 	clergymen=
@@ -757,11 +757,11 @@
 		size= 7233
 	}
 
-	artisans=
+	craftsmen=
 	{
 		culture = french
-		religion = catholic
-		size= 2581
+		religion = protestant
+		size= 12581
 	}
 
 	clergymen=
@@ -2613,8 +2613,8 @@
 	craftsmen=
 	{
 		culture = french
-		religion = catholic
-		size= 6135
+		religion = protestant
+		size= 20135
 	}
 
 	artisans=
@@ -5793,7 +5793,7 @@
 	{
 		culture = occitan
 		religion = protestant
-		size= 716
+		size= 1716
 	}
 
 	bureaucrats=
@@ -5803,11 +5803,11 @@
 		size= 298
 	}
 
-	officers=
+	craftsmen=
 	{
 		culture = occitan
 		religion = protestant
-		size= 231
+		size= 13231
 	}
 
 	aristocrats=
