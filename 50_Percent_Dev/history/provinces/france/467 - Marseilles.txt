@@ -5,3 +5,8 @@ add_core=OCC
 add_core=PRO
 trade_goods = fruit
 life_rating = 32
+{
+	level=1
+	building = luxury_clothes_factory
+	upgrade = yes
+}
