@@ -2159,18 +2159,18 @@
 		size= 5981
 	}
 
-	artisans=
+	craftsmen=
 	{
 		culture = english
 		religion = protestant
-		size= 5201
+		size= 15201
 	}
 
 	clergymen=
 	{
 		culture = english
 		religion = protestant
-		size= 1690
+		size= 2690
 	}
 
 	bureaucrats=
@@ -2461,11 +2461,11 @@
 		size= 9292
 	}
 
-	artisans=
+	craftsmen=
 	{
 		culture = english
-		religion = catholic
-		size= 8269
+		religion = protestant
+		size= 15269
 	}
 
 	clergymen=
