@@ -1,56 +1,56 @@
 1919 = {
 	slaves=
 	{
-		culture = fon
+		culture = forest_bantu
 		religion = shamanism
 		size= 5003
 	}
 
 	soldiers=
 	{
-		culture = ewe
+		culture = forest_bantu
 		religion = shamanism
 		size= 200
 	}
 
 	artisans=
 	{
-		culture = ewe
+		culture = forest_bantu
 		religion = shamanism
 		size= 56
 	}
 
 	clergymen=
 	{
-		culture = ewe
+		culture = forest_bantu
 		religion = shamanism
 		size= 4
 	}
 
 	bureaucrats=
 	{
-		culture = ewe
+		culture = forest_bantu
 		religion = shamanism
 		size= 1
 	}
 
 	officers=
 	{
-		culture = ewe
+		culture = forest_bantu
 		religion = shamanism
 		size= 1
 	}
 
 	aristocrats=
 	{
-		culture = ewe
+		culture = forest_bantu
 		religion = shamanism
 		size= 5
 	}
 
 	farmers=
 	{
-		culture = ewe
+		culture = forest_bantu
 		religion = shamanism
 		size= 14758
 	}
@@ -115,147 +115,147 @@
 1920 = {
 	aristocrats=
 	{
-		culture = fon
+		culture = forest_bantu
 		religion = animist
 		size= 2100
 	}
 
 	bureaucrats=
 	{
-		culture = fon
+		culture = forest_bantu
 		religion = animist
 		size= 100
 	}
 
 	officers=
 	{
-		culture = fon
+		culture = forest_bantu
 		religion = animist
 		size= 200
 	}
 
 	clergymen=
 	{
-		culture = fon
+		culture = forest_bantu
 		religion = animist
 		size= 1100
 	}
 
 	artisans=
 	{
-		culture = fon
+		culture = forest_bantu
 		religion = animist
 		size= 4250
 	}
 
 	soldiers=
 	{
-		culture = fon
+		culture = forest_bantu
 		religion = animist
 		size= 3000
 	}
 
 	soldiers=
 	{
-		culture = fon
+		culture = forest_bantu
 		religion = animist
 		size= 100
 	}
 
 	farmers=
 	{
-		culture = fon
+		culture = forest_bantu
 		religion = animist
 		size= 83250
 	}
 
 	slaves=
 	{
-		culture = fon
+		culture = forest_bantu
 		religion = animist
 		size= 8000
 	}
 
 	aristocrats=
 	{
-		culture = yoruba
+		culture = forest_bantu
 		religion = animist
 		size= 100
 	}
 
 	clergymen=
 	{
-		culture = yoruba
+		culture = forest_bantu
 		religion = animist
 		size= 100
 	}
 
 	artisans=
 	{
-		culture = yoruba
+		culture = forest_bantu
 		religion = animist
 		size= 400
 	}
 
 	soldiers=
 	{
-		culture = yoruba
+		culture = forest_bantu
 		religion = animist
 		size= 100
 	}
 
 	farmers=
 	{
-		culture = yoruba
+		culture = forest_bantu
 		religion = animist
 		size= 7300
 	}
 
 	slaves=
 	{
-		culture = yoruba
+		culture = forest_bantu
 		religion = animist
 		size= 2000
 	}
 
 	aristocrats=
 	{
-		culture = east_kwa
+		culture = forest_bantu
 		religion = animist
 		size= 100
 	}
 
 	clergymen=
 	{
-		culture = east_kwa
+		culture = forest_bantu
 		religion = animist
 		size= 150
 	}
 
 	artisans=
 	{
-		culture = east_kwa
+		culture = forest_bantu
 		religion = animist
 		size= 300
 	}
 
 	soldiers=
 	{
-		culture = east_kwa
+		culture = forest_bantu
 		religion = animist
 		size= 50
 	}
 
 	farmers=
 	{
-		culture = east_kwa
+		culture = forest_bantu
 		religion = animist
 		size= 5400
 	}
 
 	slaves=
 	{
-		culture = east_kwa
+		culture = forest_bantu
 		religion = animist
 		size= 2000
 	}
@@ -264,77 +264,77 @@
 1921 = {
 	aristocrats=
 	{
-		culture = gur
+		culture = forest_bantu
 		religion = animist
 		size= 50
 	}
 
 	clergymen=
 	{
-		culture = gur
+		culture = forest_bantu
 		religion = animist
 		size= 75
 	}
 
 	artisans=
 	{
-		culture = gur
+		culture = forest_bantu
 		religion = animist
 		size= 150
 	}
 
 	soldiers=
 	{
-		culture = gur
+		culture = forest_bantu
 		religion = animist
 		size= 100
 	}
 
 	farmers=
 	{
-		culture = gur
+		culture = forest_bantu
 		religion = animist
 		size= 2700
 	}
 
 	slaves=
 	{
-		culture = yoruba
+		culture = forest_bantu
 		religion = animist
 		size= 1100
 	}
 
 	aristocrats=
 	{
-		culture = east_kwa
+		culture = forest_bantu
 		religion = sunni
 		size= 175
 	}
 
 	clergymen=
 	{
-		culture = east_kwa
+		culture = forest_bantu
 		religion = sunni
 		size= 100
 	}
 
 	artisans=
 	{
-		culture = east_kwa
+		culture = forest_bantu
 		religion = sunni
 		size= 375
 	}
 
 	soldiers=
 	{
-		culture = east_kwa
+		culture = forest_bantu
 		religion = sunni
 		size= 100
 	}
 
 	farmers=
 	{
-		culture = east_kwa
+		culture = forest_bantu
 		religion = sunni
 		size= 7250
 	}
@@ -343,70 +343,70 @@
 1922 = {
 	aristocrats=
 	{
-		culture = gur
+		culture = forest_bantu
 		religion = animist
 		size= 100
 	}
 
 	clergymen=
 	{
-		culture = gur
+		culture = forest_bantu
 		religion = animist
 		size= 100
 	}
 
 	artisans=
 	{
-		culture = gur
+		culture = forest_bantu
 		religion = animist
 		size= 250
 	}
 
 	soldiers=
 	{
-		culture = gur
+		culture = forest_bantu
 		religion = animist
 		size= 100
 	}
 
 	farmers=
 	{
-		culture = gur
+		culture = forest_bantu
 		religion = animist
 		size= 4575
 	}
 
 	aristocrats=
 	{
-		culture = fulbe
+		culture = forest_bantu
 		religion = sunni
 		size= 100
 	}
 
 	clergymen=
 	{
-		culture = fulbe
+		culture = forest_bantu
 		religion = sunni
 		size= 100
 	}
 
 	artisans=
 	{
-		culture = fulbe
+		culture = forest_bantu
 		religion = sunni
 		size= 100
 	}
 
 	soldiers=
 	{
-		culture = fulbe
+		culture = forest_bantu
 		religion = sunni
 		size= 100
 	}
 
 	farmers=
 	{
-		culture = fulbe
+		culture = forest_bantu
 		religion = sunni
 		size= 1800
 	}

@@ -1,161 +1,161 @@
 1999 = {
 	slaves=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = shamanism
 		size= 1577
 	}
 
 	soldiers=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = shamanism
 		size= 275
 	}
 
 	artisans=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = shamanism
 		size= 2476
 	}
 
 	clergymen=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = shamanism
 		size= 179
 	}
 
 	bureaucrats=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = shamanism
 		size= 55
 	}
 
 	officers=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = shamanism
 		size= 36
 	}
 
 	aristocrats=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = shamanism
 		size= 231
 	}
 
 	farmers=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = shamanism
 		size= 22681
 	}
 
 	slaves=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = shamanism
 		size= 1572
 	}
 
 	soldiers=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = shamanism
 		size= 274
 	}
 
 	artisans=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = shamanism
 		size= 2353
 	}
 
 	clergymen=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = shamanism
 		size= 170
 	}
 
 	bureaucrats=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = shamanism
 		size= 53
 	}
 
 	officers=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = shamanism
 		size= 34
 	}
 
 	aristocrats=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = shamanism
 		size= 220
 	}
 
 	farmers=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = shamanism
 		size= 22764
 	}
 
 	slaves=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = catholic
 		size= 4
 	}
 
 	soldiers=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = catholic
 		size= 1
 	}
 
 	artisans=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = catholic
 		size= 123
 	}
 
 	clergymen=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = catholic
 		size= 9
 	}
 
 	bureaucrats=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = catholic
 		size= 3
 	}
 
 	officers=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = catholic
 		size= 2
 	}
 
 	aristocrats=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = catholic
 		size= 11
 	}
@@ -164,77 +164,77 @@
 2000 = {
 	aristocrats=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = animist
 		size= 125
 	}
 
 	clergymen=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = animist
 		size= 75
 	}
 
 	artisans=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = animist
 		size= 350
 	}
 
 	soldiers=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = animist
 		size= 75
 	}
 
 	farmers=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = animist
 		size= 6375
 	}
 
 	slaves=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = animist
 		size= 5000
 	}
 
 	aristocrats=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = catholic
 		size= 425
 	}
 
 	clergymen=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = catholic
 		size= 225
 	}
 
 	artisans=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = catholic
 		size= 900
 	}
 
 	soldiers=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = catholic
 		size= 225
 	}
 
 	farmers=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = catholic
 		size= 15225
 	}
@@ -243,119 +243,119 @@
 2001 = {
 	aristocrats=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = catholic
 		size= 100
 	}
 
 	clergymen=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = catholic
 		size= 50
 	}
 
 	artisans=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = catholic
 		size= 400
 	}
 
 	soldiers=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = catholic
 		size= 100
 	}
 
 	farmers=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = catholic
 		size= 7350
 	}
 
 	aristocrats=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = animist
 		size= 200
 	}
 
 	clergymen=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = animist
 		size= 150
 	}
 
 	artisans=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = animist
 		size= 1100
 	}
 
 	soldiers=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = animist
 		size= 1200
 	}
 
 	farmers=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = animist
 		size= 12450
 	}
 
 	slaves=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = animist
 		size= 4000
 	}
 
 	aristocrats=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 200
 	}
 
 	clergymen=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 150
 	}
 
 	artisans=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 700
 	}
 
 	soldiers=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 200
 	}
 
 	farmers=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 13250
 	}
 
 	slaves=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 3500
 	}
@@ -364,42 +364,42 @@
 2002 = {
 	aristocrats=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 300
 	}
 
 	clergymen=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 250
 	}
 
 	artisans=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 1200
 	}
 
 	soldiers=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 300
 	}
 
 	farmers=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 21950
 	}
 
 	slaves=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 6000
 	}
@@ -408,161 +408,161 @@
 2003 = {
 	slaves=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = shamanism
 		size= 9265
 	}
 
 	soldiers=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = shamanism
 		size= 4133
 	}
 
 	artisans=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = shamanism
 		size= 1621
 	}
 
 	clergymen=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = shamanism
 		size= 75
 	}
 
 	bureaucrats=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = shamanism
 		size= 35
 	}
 
 	officers=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = shamanism
 		size= 15
 	}
 
 	aristocrats=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = shamanism
 		size= 146
 	}
 
 	farmers=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = shamanism
 		size= 31034
 	}
 
 	slaves=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = orthodox
 		size= 1306
 	}
 
 	soldiers=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = orthodox
 		size= 131
 	}
 
 	artisans=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = orthodox
 		size= 2078
 	}
 
 	clergymen=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = orthodox
 		size= 96
 	}
 
 	bureaucrats=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = orthodox
 		size= 45
 	}
 
 	officers=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = orthodox
 		size= 19
 	}
 
 	aristocrats=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = orthodox
 		size= 187
 	}
 
 	farmers=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = orthodox
 		size= 2666
 	}
 
 	slaves=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = protestant
 		size= 1048
 	}
 
 	soldiers=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = protestant
 		size= 105
 	}
 
 	artisans=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = protestant
 		size= 4433
 	}
 
 	clergymen=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = protestant
 		size= 206
 	}
 
 	bureaucrats=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = protestant
 		size= 95
 	}
 
 	officers=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = protestant
 		size= 41
 	}
 
 	aristocrats=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = protestant
 		size= 399
 	}
@@ -571,35 +571,35 @@
 2004 = {
 	aristocrats=
 	{
-		culture = herero
+		culture = forest_bantu
 		religion = animist
 		size= 300
 	}
 
 	clergymen=
 	{
-		culture = herero
+		culture = forest_bantu
 		religion = animist
 		size= 600
 	}
 
 	artisans=
 	{
-		culture = herero
+		culture = forest_bantu
 		religion = animist
 		size= 750
 	}
 
 	soldiers=
 	{
-		culture = herero
+		culture = forest_bantu
 		religion = animist
 		size= 300
 	}
 
 	farmers=
 	{
-		culture = herero
+		culture = forest_bantu
 		religion = animist
 		size= 21250
 	}
@@ -615,42 +615,42 @@
 2005 = {
 	aristocrats=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = animist
 		size= 600
 	}
 
 	clergymen=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = animist
 		size= 550
 	}
 
 	artisans=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = animist
 		size= 2600
 	}
 
 	soldiers=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = animist
 		size= 600
 	}
 
 	farmers=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = animist
 		size= 36650
 	}
 
 	slaves=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = animist
 		size= 10000
 	}
@@ -659,42 +659,42 @@
 2006 = {
 	aristocrats=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = animist
 		size= 350
 	}
 
 	clergymen=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = animist
 		size= 350
 	}
 
 	artisans=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = animist
 		size= 1800
 	}
 
 	soldiers=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = animist
 		size= 400
 	}
 
 	farmers=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = animist
 		size= 26700
 	}
 
 	slaves=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = animist
 		size= 7500
 	}
@@ -703,84 +703,84 @@
 2007 = {
 	aristocrats=
 	{
-		culture = lunda
+		culture = forest_bantu
 		religion = animist
 		size= 50
 	}
 
 	clergymen=
 	{
-		culture = lunda
+		culture = forest_bantu
 		religion = animist
 		size= 75
 	}
 
 	artisans=
 	{
-		culture = lunda
+		culture = forest_bantu
 		religion = animist
 		size= 75
 	}
 
 	soldiers=
 	{
-		culture = lunda
+		culture = forest_bantu
 		religion = animist
 		size= 50
 	}
 
 	farmers=
 	{
-		culture = lunda
+		culture = forest_bantu
 		religion = animist
 		size= 2400
 	}
 
 	slaves=
 	{
-		culture = lunda
+		culture = forest_bantu
 		religion = animist
 		size= 1350
 	}
 
 	aristocrats=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 175
 	}
 
 	clergymen=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 175
 	}
 
 	artisans=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 800
 	}
 
 	soldiers=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 200
 	}
 
 	farmers=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 11450
 	}
 
 	slaves=
 	{
-		culture = chokwe
+		culture = forest_bantu
 		religion = animist
 		size= 3200
 	}
@@ -789,77 +789,77 @@
 2008 = {
 	aristocrats=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = animist
 		size= 30
 	}
 
 	clergymen=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = animist
 		size= 60
 	}
 
 	artisans=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = animist
 		size= 75
 	}
 
 	soldiers=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = animist
 		size= 30
 	}
 
 	farmers=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = animist
 		size= 2205
 	}
 
 	slaves=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = animist
 		size= 600
 	}
 
 	aristocrats=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 50
 	}
 
 	clergymen=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 75
 	}
 
 	artisans=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 300
 	}
 
 	soldiers=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 75
 	}
 
 	farmers=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 4275
 	}
@@ -875,126 +875,126 @@
 2009 = {
 	aristocrats=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 75
 	}
 
 	clergymen=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 50
 	}
 
 	artisans=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 250
 	}
 
 	soldiers=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 75
 	}
 
 	farmers=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 4350
 	}
 
 	slaves=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 1200
 	}
 
 	aristocrats=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = animist
 		size= 30
 	}
 
 	clergymen=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = animist
 		size= 60
 	}
 
 	artisans=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = animist
 		size= 75
 	}
 
 	soldiers=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = animist
 		size= 60
 	}
 
 	farmers=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = animist
 		size= 2175
 	}
 
 	slaves=
 	{
-		culture = ovimbundu
+		culture = forest_bantu
 		religion = animist
 		size= 600
 	}
 
 	aristocrats=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = animist
 		size= 25
 	}
 
 	clergymen=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = animist
 		size= 50
 	}
 
 	artisans=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = animist
 		size= 100
 	}
 
 	soldiers=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = animist
 		size= 25
 	}
 
 	farmers=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = animist
 		size= 1400
 	}
 
 	slaves=
 	{
-		culture = bakongo
+		culture = forest_bantu
 		religion = animist
 		size= 400
 	}
@@ -1003,84 +1003,84 @@
 2010 = {
 	aristocrats=
 	{
-		culture = chokwe
+		culture = forest_bantu
 		religion = animist
 		size= 250
 	}
 
 	clergymen=
 	{
-		culture = chokwe
+		culture = forest_bantu
 		religion = animist
 		size= 250
 	}
 
 	artisans=
 	{
-		culture = chokwe
+		culture = forest_bantu
 		religion = animist
 		size= 1250
 	}
 
 	soldiers=
 	{
-		culture = chokwe
+		culture = forest_bantu
 		religion = animist
 		size= 250
 	}
 
 	farmers=
 	{
-		culture = chokwe
+		culture = forest_bantu
 		religion = animist
 		size= 8000
 	}
 
 	slaves=
 	{
-		culture = chokwe
+		culture = forest_bantu
 		religion = animist
 		size= 8000
 	}
 
 	aristocrats=
 	{
-		culture = lunda
+		culture = forest_bantu
 		religion = animist
 		size= 50
 	}
 
 	clergymen=
 	{
-		culture = lunda
+		culture = forest_bantu
 		religion = animist
 		size= 50
 	}
 
 	artisans=
 	{
-		culture = lunda
+		culture = forest_bantu
 		religion = animist
 		size= 200
 	}
 
 	soldiers=
 	{
-		culture = lunda
+		culture = forest_bantu
 		religion = animist
 		size= 50
 	}
 
 	farmers=
 	{
-		culture = lunda
+		culture = forest_bantu
 		religion = animist
 		size= 10850
 	}
 
 	slaves=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 800
 	}
@@ -1089,84 +1089,84 @@
 2011 = {
 	aristocrats=
 	{
-		culture = lunda
+		culture = forest_bantu
 		religion = animist
 		size= 150
 	}
 
 	clergymen=
 	{
-		culture = lunda
+		culture = forest_bantu
 		religion = animist
 		size= 125
 	}
 
 	artisans=
 	{
-		culture = lunda
+		culture = forest_bantu
 		religion = animist
 		size= 750
 	}
 
 	soldiers=
 	{
-		culture = lunda
+		culture = forest_bantu
 		religion = animist
 		size= 150
 	}
 
 	farmers=
 	{
-		culture = lunda
+		culture = forest_bantu
 		religion = animist
 		size= 8125
 	}
 
 	slaves=
 	{
-		culture = lunda
+		culture = forest_bantu
 		religion = animist
 		size= 4700
 	}
 
 	aristocrats=
 	{
-		culture = chokwe
+		culture = forest_bantu
 		religion = animist
 		size= 50
 	}
 
 	clergymen=
 	{
-		culture = chokwe
+		culture = forest_bantu
 		religion = animist
 		size= 50
 	}
 
 	artisans=
 	{
-		culture = chokwe
+		culture = forest_bantu
 		religion = animist
 		size= 250
 	}
 
 	soldiers=
 	{
-		culture = chokwe
+		culture = forest_bantu
 		religion = animist
 		size= 50
 	}
 
 	farmers=
 	{
-		culture = chokwe
+		culture = forest_bantu
 		religion = animist
 		size= 3600
 	}
 
 	slaves=
 	{
-		culture = kavango
+		culture = forest_bantu
 		religion = animist
 		size= 1100
 	}

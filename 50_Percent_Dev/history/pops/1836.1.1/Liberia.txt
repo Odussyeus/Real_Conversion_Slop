@@ -1,21 +1,21 @@
 1887 = {
 	slaves=
 	{
-		culture = dyula
+		culture = forest_bantu
 		religion = shamanism
 		size= 641
 	}
 
 	soldiers=
 	{
-		culture = dyula
+		culture = forest_bantu
 		religion = shamanism
 		size= 264
 	}
 
 	farmers=
 	{
-		culture = dyula
+		culture = forest_bantu
 		religion = shamanism
 		size= 12298
 	}
@@ -80,56 +80,56 @@
 1888 = {
 	slaves=
 	{
-		culture = dyula
+		culture = forest_bantu
 		religion = shamanism
 		size= 784
 	}
 
 	soldiers=
 	{
-		culture = dyula
+		culture = forest_bantu
 		religion = shamanism
 		size= 711
 	}
 
 	artisans=
 	{
-		culture = dyula
+		culture = forest_bantu
 		religion = shamanism
 		size= 1422
 	}
 
 	clergymen=
 	{
-		culture = dyula
+		culture = forest_bantu
 		religion = shamanism
 		size= 231
 	}
 
 	bureaucrats=
 	{
-		culture = dyula
+		culture = forest_bantu
 		religion = shamanism
 		size= 107
 	}
 
 	officers=
 	{
-		culture = dyula
+		culture = forest_bantu
 		religion = shamanism
 		size= 28
 	}
 
 	aristocrats=
 	{
-		culture = dyula
+		culture = forest_bantu
 		religion = shamanism
 		size= 299
 	}
 
 	farmers=
 	{
-		culture = dyula
+		culture = forest_bantu
 		religion = shamanism
 		size= 31978
 	}
@@ -138,70 +138,70 @@
 1889 = {
 	aristocrats=
 	{
-		culture = mande
+		culture = forest_bantu
 		religion = sunni
 		size= 475
 	}
 
 	clergymen=
 	{
-		culture = mande
+		culture = forest_bantu
 		religion = sunni
 		size= 250
 	}
 
 	artisans=
 	{
-		culture = mande
+		culture = forest_bantu
 		religion = sunni
 		size= 1250
 	}
 
 	soldiers=
 	{
-		culture = mande
+		culture = forest_bantu
 		religion = sunni
 		size= 250
 	}
 
 	farmers=
 	{
-		culture = mande
+		culture = forest_bantu
 		religion = sunni
 		size= 32775
 	}
 
 	aristocrats=
 	{
-		culture = mande
+		culture = forest_bantu
 		religion = animist
 		size= 100
 	}
 
 	clergymen=
 	{
-		culture = mande
+		culture = forest_bantu
 		religion = animist
 		size= 100
 	}
 
 	artisans=
 	{
-		culture = mande
+		culture = forest_bantu
 		religion = animist
 		size= 300
 	}
 
 	soldiers=
 	{
-		culture = mande
+		culture = forest_bantu
 		religion = animist
 		size= 100
 	}
 
 	farmers=
 	{
-		culture = mande
+		culture = forest_bantu
 		religion = animist
 		size= 35475
 	}
@@ -210,70 +210,70 @@
 1890 = {
 	aristocrats=
 	{
-		culture = mande
+		culture = forest_bantu
 		religion = sunni
 		size= 200
 	}
 
 	clergymen=
 	{
-		culture = mande
+		culture = forest_bantu
 		religion = sunni
 		size= 100
 	}
 
 	artisans=
 	{
-		culture = mande
+		culture = forest_bantu
 		religion = sunni
 		size= 550
 	}
 
 	soldiers=
 	{
-		culture = mande
+		culture = forest_bantu
 		religion = sunni
 		size= 125
 	}
 
 	farmers=
 	{
-		culture = mande
+		culture = forest_bantu
 		religion = sunni
 		size= 15025
 	}
 
 	aristocrats=
 	{
-		culture = mande
+		culture = forest_bantu
 		religion = animist
 		size= 425
 	}
 
 	clergymen=
 	{
-		culture = mande
+		culture = forest_bantu
 		religion = animist
 		size= 225
 	}
 
 	artisans=
 	{
-		culture = mande
+		culture = forest_bantu
 		religion = animist
 		size= 1100
 	}
 
 	soldiers=
 	{
-		culture = mande
+		culture = forest_bantu
 		religion = animist
 		size= 225
 	}
 
 	farmers=
 	{
-		culture = mande
+		culture = forest_bantu
 		religion = animist
 		size= 65025
 	}
@@ -282,7 +282,7 @@
 1891 = {
 	aristocrats=
 	{
-		culture = kru
+		culture = forest_bantu
 		religion = animist
 		size= 425
 	}
@@ -303,14 +303,14 @@
 
 	soldiers=
 	{
-		culture = kru
+		culture = forest_bantu
 		religion = animist
 		size= 250
 	}
 
 	farmers=
 	{
-		culture = kru
+		culture = forest_bantu
 		religion = animist
 		size= 5975
 	}
@@ -345,7 +345,7 @@
 
 	farmers=
 	{
-		culture = western_nigritic
+		culture = forest_bantu
 		religion = animist
 		size= 32300
 	}
