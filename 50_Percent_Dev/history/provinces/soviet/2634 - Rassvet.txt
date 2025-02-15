@@ -1,6 +1,7 @@
 owner=RUS
 controller=RUS
 add_core=CHV
+add_core=SIB
 trade_goods = fish
 life_rating = 10
 terrain = montane_tundra
