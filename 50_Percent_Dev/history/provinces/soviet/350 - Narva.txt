@@ -2,5 +2,6 @@ owner=ENG
 controller=ENG
 add_core=EST
 add_core=UBD
+add_core=ENG
 trade_goods = cattle
 life_rating = 35
