@@ -1,0 +1,7 @@
+owner=AKK
+controller=AKK
+add_core=AKK
+add_core=SRN
+trade_goods = wool
+life_rating = 31
+terrain = dryhills
